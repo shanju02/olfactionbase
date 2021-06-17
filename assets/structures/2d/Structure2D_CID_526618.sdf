@@ -1,0 +1,146 @@
+526618
+ OpenBabel05082101102D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    2.6723    0.7172    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -1.6307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -1.0429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2601   -0.0919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2601   -0.0919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691   -1.0429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6245    0.4097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -0.7623    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -1.5435    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -1.9416    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1588   -1.2345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6454    1.3785    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3312    2.1971    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5126    1.8829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+526618
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+74.9
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgIABAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgQAAAAACASg0AKyBYAABEiIAKhSgAACCAAkKBAIiBsGCMgMJjKkNBqCGSCkwBEIqYaIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-methyl-3-methylsulfanyl-furan
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-methyl-3-(methylthio)furan
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-methyl-3-methylsulfanylfuran
+
+>  <PUBCHEM_IUPAC_NAME>
+2-methyl-3-methylsulfanylfuran
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-3-methylsulfanyl-furan
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methyl-3-(methylthio)furan
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H8OS/c1-5-6(8-2)3-4-7-5/h3-4H,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+OQVAOEIMSKZGAL-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.9
+
+>  <PUBCHEM_EXACT_MASS>
+128.029586
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C6H8OS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+128.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C=CO1)SC
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C=CO1)SC
+
+>  <PUBCHEM_CACTVS_TPSA>
+38.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+128.029586
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+2  3  8
+2  7  8
+3  4  8
+4  5  8
+5  7  8
+
+$$$$

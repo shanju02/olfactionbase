@@ -1,0 +1,142 @@
+23462
+ OpenBabel05082101102D
+
+ 19 16  0  0  1  0  0  0  0  0999 V2000
+    0.0000    2.8100    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    0.6200    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350    2.1200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    3.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8360    5.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    2.6200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    2.1200    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4030    1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    2.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    2.7400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6150    0.5374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0135    1.2277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    2.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    3.2400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6720    2.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3729    5.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2990    5.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  1  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+23462
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+75.3
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBCMABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACABAAgQIAACQCAAAAAAAAAAAAIGAAAACAAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-2-amino-3-sulfanyl-propanoic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-amino-3-mercaptopropanoic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>)-2-amino-3-sulfanylpropanoic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+(2R)-2-amino-3-sulfanylpropanoic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-2-azanyl-3-sulfanyl-propanoic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-2-amino-3-mercapto-propionic acid;hydrate;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H7NO2S.ClH.H2O/c4-2(1-7)3(5)6;;/h2,7H,1,4H2,(H,5,6);1H;1H2/t2-;;/m0../s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+QIJRTFXNRTXDIP-JIZZDEOASA-N
+
+>  <PUBCHEM_EXACT_MASS>
+175.006992
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C3H10ClNO3S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+175.64
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(=O)O)N)S.O.Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C([C@@H](C(=O)O)N)S.O.Cl
+
+>  <PUBCHEM_CACTVS_TPSA>
+65.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+175.006992
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+3
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+7  6  6
+
+$$$$

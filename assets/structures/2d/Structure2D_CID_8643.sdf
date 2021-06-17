@@ -1,0 +1,177 @@
+8643
+ OpenBabel05082101102D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    2.7018    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    3.2158    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    6.2158    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    4.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    4.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    5.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    3.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    3.7158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9617    5.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    5.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9617    3.1812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    3.1812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8678    4.7367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    4.7367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8678    3.6950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    3.6950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9546    5.8705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    5.8705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9546    2.5612    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    2.5612    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4035    5.0487    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.0487    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4035    3.3830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7387    6.5258    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648    6.5258    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7018    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 25  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+8643
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+207
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzAAAEAAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAACx/AAAHAAQAAAADAiBHgAwwPJIEACgAyRiRACCgCAhAiAImCAwZJgIIOLA0dGEJAhggADIyAcQgMAOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+acridin-9-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+9-acridinamine;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+acridin-9-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+acridin-9-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+acridin-9-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acridin-9-ylamine;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H10N2.ClH/c14-13-9-5-1-3-7-11(9)15-12-8-4-2-6-10(12)13;/h1-8H,(H2,14,15);1H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+FTGPOQQGJVJDCT-UHFFFAOYSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+230.061076
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C13H11ClN2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+230.69
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N.Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N.Cl
+
+>  <PUBCHEM_CACTVS_TPSA>
+38.9
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+230.061076
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+11  15  8
+12  16  8
+13  15  8
+14  16  8
+2  7  8
+2  8  8
+4  6  8
+4  7  8
+4  9  8
+5  10  8
+5  6  8
+5  8  8
+7  11  8
+8  12  8
+9  13  8
+
+$$$$

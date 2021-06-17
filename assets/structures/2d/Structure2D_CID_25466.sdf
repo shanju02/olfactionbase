@@ -1,0 +1,129 @@
+25466
+ OpenBabel05082101102D
+
+ 15  9  0  0  0  0  0  0  0  0999 V2000
+    3.4030    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+    3.4030    4.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+    4.4030    1.0000    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    5.0000    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.7500    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4030    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4030    5.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4030    4.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.4030    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4030    5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    6.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    3.2500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4030    2.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  2  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  2  0  0  0  0
+  4 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  CHG  8   1   2   2   2   5   1   6  -1   7  -1   8  -1   9  -1  14  -1
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+25466
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+62.2
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAPAAAQACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+potassium;dizinc;dioxido(dioxo)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+potassium;dizinc;dioxido(dioxo)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+potassium;dizinc;dioxido(dioxo)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_NAME>
+potassium;dizinc;dioxido(dioxo)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+potassium;dizinc;bis(oxidanidyl)-bis(oxidanylidene)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+potassium;dizinc;diketo(dioxido)chromium;hydroxide
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Cr.K.H2O.8O.2Zn/h;;;1H2;;;;;;;;;;/q;;+1;;;;;;4*-1;2*+2/p-1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+GQKCRUJOPUHISR-UHFFFAOYSA-M
+
+>  <PUBCHEM_EXACT_MASS>
+417.66195
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+Cr2HKO9Zn2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+418.9
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+[OH-].[O-][Cr](=O)(=O)[O-].[O-][Cr](=O)(=O)[O-].[K+].[Zn+2].[Zn+2]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+[OH-].[O-][Cr](=O)(=O)[O-].[O-][Cr](=O)(=O)[O-].[K+].[Zn+2].[Zn+2]
+
+>  <PUBCHEM_CACTVS_TPSA>
+162
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+415.66506
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+6
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

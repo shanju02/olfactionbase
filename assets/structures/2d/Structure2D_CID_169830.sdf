@@ -1,0 +1,148 @@
+169830
+ OpenBabel05082101102D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    4.5032   -0.6056    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0064    0.3423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -0.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0032    0.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0032    0.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -0.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2546   -0.7085    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0342   -0.8742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6388    1.4348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149    0.8031    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392    0.7572    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851   -0.1184    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3676    1.4348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3922   -0.9333    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+169830
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+103
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgIABAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgQAAAAACACg0AIyAYAAAAiMAChSgAADAIAkCBBIiBkAAMgIIDKgFRCAAQAggAAoiYcIiACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-ethylthiophene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+5-ethyl-2-thiophenecarboxaldehyde
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+5-ethylthiophene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_NAME>
+5-ethylthiophene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-ethylthiophene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-ethylthiophene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H8OS/c1-2-6-3-4-7(5-8)9-6/h3-5H,2H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+CLQXZICUPGZTPE-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.2
+
+>  <PUBCHEM_EXACT_MASS>
+140.029586
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C7H8OS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+140.2
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC1=CC=C(S1)C=O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC1=CC=C(S1)C=O
+
+>  <PUBCHEM_CACTVS_TPSA>
+45.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+140.029586
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  4  8
+1  7  8
+4  5  8
+5  8  8
+7  8  8
+
+$$$$

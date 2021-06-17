@@ -1,0 +1,181 @@
+162476
+ OpenBabel05082101102D
+
+ 35 35  0  0  1  0  0  0  0  0999 V2000
+    3.3660   -0.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3301    0.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962   -0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -0.0670    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.7320    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    0.4330    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.9641    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9641   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0622    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3044   -0.5054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1306    0.9080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3335    0.9080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1996   -0.5419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9966   -0.5419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.0301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.8770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.1039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010    1.6090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6541    1.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4272    0.9890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5841   -0.4330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8441   -1.2990    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7741   -1.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3722    0.3961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5991    1.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7522    1.4700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+162476
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+270
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADFSggAICCAAABACIACDSCAAAAAAgAAAIAAAAAAgABAIAIAACAAAEgAAAIAHA4FwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+[1-[2-(3,3-dimethyloxiran-2-yl)ethyl]-1-methyl-allyl] acetate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid [5-(3,3-dimethyl-2-oxiranyl)-3-methylpent-1-en-3-yl] ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+[5-(3,3-dimethyloxiran-2-yl)-3-methylpent-1-en-3-yl] acetate
+
+>  <PUBCHEM_IUPAC_NAME>
+[5-(3,3-dimethyloxiran-2-yl)-3-methylpent-1-en-3-yl] acetate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[5-(3,3-dimethyloxiran-2-yl)-3-methyl-pent-1-en-3-yl] ethanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid [1-[2-(3,3-dimethyloxiran-2-yl)ethyl]-1-methyl-allyl] ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H20O3/c1-6-12(5,14-9(2)13)8-7-10-11(3,4)15-10/h6,10H,1,7-8H2,2-5H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+SVXOLLYBCSDBKK-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2
+
+>  <PUBCHEM_EXACT_MASS>
+212.141244
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C12H20O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+212.28
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)OC(C)(CCC1C(O1)(C)C)C=C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)OC(C)(CCC1C(O1)(C)C)C=C
+
+>  <PUBCHEM_CACTVS_TPSA>
+38.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+212.141244
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  11  3
+5  6  3
+
+$$$$

@@ -1,0 +1,158 @@
+699489
+ OpenBabel05082101102D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    5.9360   -1.1191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.8674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4712    0.5282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    1.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8870   -1.4281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    1.1462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    2.4063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0949   -2.4063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770    0.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    2.4063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.1410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5066   -1.4065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9733   -0.8142    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0298    1.5611    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.9079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4885   -2.5352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2238   -3.0127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7014   -2.2774    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3162   -0.2468    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.9079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    1.2636    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+699489
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+175
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAACASgkAIyDIAABECIAKjSiAACCAAkIAAIiAEGCMgMJjKENRqCGSCkwBEIqYaIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+ethyl (E)-3-(2-furyl)prop-2-enoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(E)-3-(2-furanyl)-2-propenoic acid ethyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+ethyl (<I>E</I>)-3-(furan-2-yl)prop-2-enoate
+
+>  <PUBCHEM_IUPAC_NAME>
+ethyl (E)-3-(furan-2-yl)prop-2-enoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+ethyl (E)-3-(furan-2-yl)prop-2-enoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(E)-3-(2-furyl)acrylic acid ethyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H10O3/c1-2-11-9(10)6-5-8-4-3-7-12-8/h3-7H,2H2,1H3/b6-5+
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+MWZBTMXISMOMAE-AATRIKPKSA-N
+
+>  <PUBCHEM_XLOGP3>
+1.9
+
+>  <PUBCHEM_EXACT_MASS>
+166.062994
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C9H10O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+166.17
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C=CC1=CC=CO1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)/C=C/C1=CC=CO1
+
+>  <PUBCHEM_CACTVS_TPSA>
+39.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+166.062994
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+2  12  8
+2  4  8
+4  7  8
+7  10  8
+
+$$$$

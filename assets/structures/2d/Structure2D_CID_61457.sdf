@@ -1,0 +1,185 @@
+61457
+ OpenBabel05082101102D
+
+ 37 37  0  0  1  0  0  0  0  0999 V2000
+    6.2859    0.1107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3737    2.4585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7750    1.4405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4769    0.6985    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.7859    1.6495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7859    1.6495    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5258    0.3894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0949    0.6985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3179   -0.5887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3669   -0.8977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1590   -1.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2079   -2.1849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3682    2.3540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.1630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9560    3.1630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3799    0.0861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8507    2.2661    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    1.7784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5044    2.2020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4396    1.0034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9062    0.4111    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4049    0.1615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6613    0.9506    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4042   -1.2027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9376   -0.6103    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2806   -0.2838    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7473   -0.8761    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2453   -2.4898    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7786   -1.8975    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1216   -1.5709    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5883   -2.1632    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3936   -3.0341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8711   -3.7695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6064   -3.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4576    2.7986    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3204    3.6646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4544    3.5274    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 15 37  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+61457
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+191
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGgAAAAAACBSggAICCAAABAAIAACQCAAAAAAAAAAAAAAAAAABAAIAAAACAAAFAAACAAGAwKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(5-hexyltetrahydrofuran-3-yl) acetate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid (5-hexyl-3-oxolanyl) ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(5-hexyloxolan-3-yl) acetate
+
+>  <PUBCHEM_IUPAC_NAME>
+(5-hexyloxolan-3-yl) acetate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(5-hexyloxolan-3-yl) ethanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid (5-hexyltetrahydrofuran-3-yl) ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H22O3/c1-3-4-5-6-7-11-8-12(9-14-11)15-10(2)13/h11-12H,3-9H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+IAJCTZJZXRAPDK-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+3.1
+
+>  <PUBCHEM_EXACT_MASS>
+214.156895
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C12H22O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+214.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCCC1CC(CO1)OC(=O)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCCC1CC(CO1)OC(=O)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+35.5
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+214.156895
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+6  2  3
+4  7  3
+
+$$$$

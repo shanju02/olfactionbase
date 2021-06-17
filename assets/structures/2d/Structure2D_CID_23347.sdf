@@ -1,0 +1,156 @@
+23347
+ OpenBabel05082101102D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    6.0371   -1.7492    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.2103    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770   -0.4891    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.4891    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5371   -0.2103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3461   -0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0371   -1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5371    0.4097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.2507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9358   -0.6065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.2507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4015   -2.2507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.6065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+23347
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+123
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBwAABwAAAAAAAAAAAAAAAAASJAAAAAAAAAAAAAAAAB4AAAGAQAAAAACACEUACwAYAAAAiEACBCAAAHAYAgCBBIiBgAAIgIIAAgAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(2-thienyldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-(thiophen-2-yldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(thiophen-2-yldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_NAME>
+2-(thiophen-2-yldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(thiophen-2-yldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(2-thienyldisulfanyl)thiophene
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H6S4/c1-3-7(9-5-1)11-12-8-4-2-6-10-8/h1-6H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+YOLFWWMPGNMXFI-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+4.1
+
+>  <PUBCHEM_EXACT_MASS>
+229.935235
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C8H6S4
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+230.4
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CSC(=C1)SSC2=CC=CS2
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CSC(=C1)SSC2=CC=CS2
+
+>  <PUBCHEM_CACTVS_TPSA>
+107
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+229.935235
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  5  8
+10  12  8
+2  12  8
+2  6  8
+5  7  8
+6  8  8
+7  9  8
+8  10  8
+9  11  8
+
+$$$$

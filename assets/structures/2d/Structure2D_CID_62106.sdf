@@ -1,0 +1,170 @@
+62106
+ OpenBabel05082101102D
+
+ 25 26  0  0  0  0  0  0  0  0999 V2000
+    3.4901   -0.4568    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5778   -2.8046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    2.2168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8913    0.5613    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0778   -1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7688   -2.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3869   -2.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0778   -1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8178   -2.5259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3379   -2.5259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8968    0.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    2.8046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4423   -0.7642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6262   -1.9362    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2281   -2.7174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0094   -3.1155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1463   -3.1155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9276   -2.7174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5295   -1.9362    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    0.7642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    2.4084    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    3.4246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+62106
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+244
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMABAAAAAAAAAAAAAAAAAASJAAAAAAAAAAAAAAAAB4AAAGgQAAAAACASg0AIyBYAABEiIAKhSgAICCAAkKBAIiBtGCMgMJjKkNR6CGSCkwBEoqYeIBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+S-(2,5-dimethyl-3-furyl) furan-2-carbothioate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-furancarbothioic acid S-(2,5-dimethyl-3-furanyl) ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>S</I>-(2,5-dimethylfuran-3-yl) furan-2-carbothioate
+
+>  <PUBCHEM_IUPAC_NAME>
+S-(2,5-dimethylfuran-3-yl) furan-2-carbothioate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+S-(2,5-dimethylfuran-3-yl) furan-2-carbothioate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+furan-2-carbothioic acid S-(2,5-dimethyl-3-furyl) ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H10O3S/c1-7-6-10(8(2)14-7)15-11(12)9-4-3-5-13-9/h3-6H,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+IHJDHYVSIRCWIT-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+3.1
+
+>  <PUBCHEM_EXACT_MASS>
+222.035065
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C11H10O3S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+222.26
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=C(O1)C)SC(=O)C2=CC=CO2
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=C(O1)C)SC(=O)C2=CC=CO2
+
+>  <PUBCHEM_CACTVS_TPSA>
+68.6
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+222.035065
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+13  14  8
+14  15  8
+2  6  8
+2  7  8
+3  11  8
+3  15  8
+5  6  8
+5  8  8
+7  8  8
+
+$$$$

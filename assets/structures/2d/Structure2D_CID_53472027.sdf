@@ -1,0 +1,160 @@
+53472027
+ OpenBabel05082101102D
+
+ 27 25  0  0  1  0  0  0  0  0999 V2000
+    2.6350    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    2.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    4.3100    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1350    3.8100    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.8671    3.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    5.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7331    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    3.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4685    3.3350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2656    3.3350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6210    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    5.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0431    3.7731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2700    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4231    4.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    4.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    3.7731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  1  0  0  0
+  6  4  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  6  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+53472027
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+114
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBiMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAADSjBgAYCCABABAAIAACQCAAAAAAAAAAAAIGAAAACABIAgAABAAAEEAAAAACIAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl (2R,3R)-2-amino-3-methyl-pentanoate;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(2R,3R)-2-amino-3-methylpentanoic acid methyl ester;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl (2<I>R</I>,3<I>R</I>)-2-amino-3-methylpentanoate;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+methyl (2R,3R)-2-amino-3-methylpentanoate;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl (2R,3R)-2-azanyl-3-methyl-pentanoate;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R,3R)-2-amino-3-methyl-valeric acid methyl ester;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H15NO2.ClH/c1-4-5(2)6(8)7(9)10-3;/h5-6H,4,8H2,1-3H3;1H/t5-,6-;/m1./s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+GGTBEWGOPAFTTH-KGZKBUQUSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+181.086957
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C7H16ClNO2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+181.66
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(C)C(C(=O)OC)N.Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC[C@@H](C)[C@H](C(=O)OC)N.Cl
+
+>  <PUBCHEM_CACTVS_TPSA>
+52.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+181.086957
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+6  4  5
+5  8  6
+
+$$$$

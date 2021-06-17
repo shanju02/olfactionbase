@@ -1,0 +1,185 @@
+92292
+ OpenBabel05082101102D
+
+ 37 38  0  0  1  0  0  0  0  0999 V2000
+    2.8660    1.8782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.9266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -0.1218    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6783    0.6829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4883   -1.5130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3709   -1.8782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -0.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4883    1.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3709    1.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5436   -0.6741    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -1.5968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -1.5968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1248   -2.0152    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9905   -1.8765    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8519   -1.0107    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7809   -1.6876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1803   -2.4682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9609   -2.0687    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -0.7418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8819   -0.1218    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619    0.4982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8519    0.7671    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9905    1.6328    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1248    1.7715    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9609    1.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1803    2.2245    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7809    1.4439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894   -0.5142    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880   -1.2044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880    0.9608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894    0.2705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 15 37  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+92292
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+344
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAGAAAAAAGgAAAAAADwSAgAACAAAAAACIAoBQAAAAAAAgAAAACAEAAEgAABIAAAAAAAAAgAAIAQMIiMCPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_NAME>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,3,3-pentamethyl-2,5,6,7-tetrahydroinden-4-one
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H22O/c1-9-13(2,3)10-7-6-8-11(15)12(10)14(9,4)5/h9H,6-8H2,1-5H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+MIZGSAALSYARKU-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+3.3
+
+>  <PUBCHEM_EXACT_MASS>
+206.167065
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C14H22O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+206.32
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C(C2=C(C1(C)C)C(=O)CCC2)(C)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1C(C2=C(C1(C)C)C(=O)CCC2)(C)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+17.1
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+206.167065
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+3  10  3
+
+$$$$

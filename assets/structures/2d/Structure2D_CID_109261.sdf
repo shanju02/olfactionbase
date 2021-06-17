@@ -1,0 +1,181 @@
+109261
+ OpenBabel05082101102D
+
+ 34 35  0  0  1  0  0  0  0  0999 V2000
+    2.0000   -2.1020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7915   -0.5166    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8137    1.2980    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.4188   -1.1086    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6798    1.7980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1905   -1.0254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0503    0.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0768   -0.1689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8478    1.5568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4493   -0.0594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9962   -2.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5890    2.5228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1407    0.8497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3153    0.4406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8096   -1.1363    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7328    1.9127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8508   -1.5533    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2614    2.0125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4165    2.3594    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9955   -1.6139    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7844   -1.2032    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8825    0.4199    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4910   -0.3721    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0083    0.9580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3518   -2.5228    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1878    2.6832    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4285    3.1216    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9901    2.3623    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7023    1.2881    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7023    0.4113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5791    0.4113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6253   -0.0964    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8522    0.7506    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0053    0.9775    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+109261
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+275
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAAAAAAAwQIAAAAAAAAAAAAAAGgAAAAAADQCggAICAAAAAACIAghQgAAAAAAgAAAACAEAAAgAABIAAAAAAAAAgAAIAAMIiMCOgAAAAAAAAAAAAAQAACAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+7-isopropyl-5-methyl-bicyclo[2.2.2]oct-4-ene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+5-methyl-7-propan-2-yl-2-bicyclo[2.2.2]oct-4-enecarboxaldehyde
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+5-methyl-7-propan-2-ylbicyclo[2.2.2]oct-4-ene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_NAME>
+5-methyl-7-propan-2-ylbicyclo[2.2.2]oct-4-ene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-methyl-7-propan-2-yl-bicyclo[2.2.2]oct-4-ene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+7-isopropyl-5-methyl-bicyclo[2.2.2]oct-4-ene-2-carbaldehyde
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H20O/c1-8(2)12-6-10-5-11(7-14)13(12)4-9(10)3/h7-8,11-13H,4-6H2,1-3H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+BNAYNPKNDLTBTJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.2
+
+>  <PUBCHEM_EXACT_MASS>
+192.151415
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C13H20O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+192.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C2CC(C(C1)C(C2)C(C)C)C=O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C2CC(C(C1)C(C2)C(C)C)C=O
+
+>  <PUBCHEM_CACTVS_TPSA>
+17.1
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+192.151415
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+2  6  3
+3  9  3
+4  11  3
+
+$$$$

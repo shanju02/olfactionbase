@@ -1,0 +1,172 @@
+3023838
+ OpenBabel05082101102D
+
+ 29 29  0  0  0  0  0  0  0  0999 V2000
+    7.2370    0.6174    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3179   -0.3910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8532   -2.0382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7370    2.1563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4769    0.8962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690   -0.0819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4280    1.2052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1590   -1.6781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7370    2.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1100   -1.3691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.9653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1492    2.9653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0460    1.2052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3906    1.5102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8573    0.9178    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3553   -0.6959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8886   -0.1036    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0727   -1.0642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5394   -1.6565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0373   -3.2702    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5707   -2.6779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -2.3756    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -3.1569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -3.5550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6508    3.3297    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7848    3.4669    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6476    2.6009    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6356    1.0136    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+3023838
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+187
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgQAAAAACAih1gaGiRIIFAisAQTxTAAA8KBxCDgAWBU4QAgAIBJggAAGAAAkQAFISAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(4-methylthiazol-5-yl)ethyl butanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+butanoic acid 2-(4-methyl-5-thiazolyl)ethyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl butanoate
+
+>  <PUBCHEM_IUPAC_NAME>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl butanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl butanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+butyric acid 2-(4-methylthiazol-5-yl)ethyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H15NO2S/c1-3-4-10(12)13-6-5-9-8(2)11-7-14-9/h7H,3-6H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+GDRZNYCKSKHESZ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>
+2.2
+
+>  <PUBCHEM_EXACT_MASS>
+213.08235
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H15NO2S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+213.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(=O)OCCC1=C(N=CS1)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(=O)OCCC1=C(N=CS1)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+67.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+213.08235
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  14  8
+1  7  8
+4  10  8
+4  14  8
+7  10  8
+
+$$$$

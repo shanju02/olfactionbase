@@ -1,0 +1,185 @@
+106862
+ OpenBabel05082101102D
+
+ 34 35  0  0  1  0  0  0  0  0999 V2000
+    5.3122   -0.1665    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0723   -1.0633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9845    1.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5755   -0.8356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    0.4244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8813   -0.4755    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.2633   -0.4755    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.5723    0.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5723    0.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4691   -1.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8324   -0.1665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6755   -1.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0403    0.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691   -0.8356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180   -0.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -1.1144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    0.4244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1788    0.6044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5075    1.0921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9675   -1.6490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8335   -1.7861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9707   -0.9201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1739   -0.9201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3111   -1.7861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1771   -1.6490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2780   -1.3831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0577   -1.2174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6468    0.6827    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1692    1.4181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4338    0.9405    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -1.7344    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -0.7182    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    0.9260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+106862
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+370
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOABAAAAAAAAAAAAAAAAAASJAAAAAAAAAAAAAAAABgAAAGgQAAAAADESk0AKyBIAABEiIAKhSgAICCAAkIBAIiAFGCMgMJjakNR6CGSCk4BEoqYeJzABOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-acetyl-2-(2-furylmethylsulfanyl)-2,5-dimethyl-tetrahydrofuran-3-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+5-acetyl-2-(2-furanylmethylthio)-2,5-dimethyl-3-oxolanone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+5-acetyl-2-(furan-2-ylmethylsulfanyl)-2,5-dimethyloxolan-3-one
+
+>  <PUBCHEM_IUPAC_NAME>
+5-acetyl-2-(furan-2-ylmethylsulfanyl)-2,5-dimethyloxolan-3-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-ethanoyl-2-(furan-2-ylmethylsulfanyl)-2,5-dimethyl-oxolan-3-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-acetyl-2-(2-furfurylthio)-2,5-dimethyl-tetrahydrofuran-3-one
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H16O4S/c1-9(14)12(2)7-11(15)13(3,17-12)18-8-10-5-4-6-16-10/h4-6H,7-8H2,1-3H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+GQCBHHWLIWZIIT-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.2
+
+>  <PUBCHEM_EXACT_MASS>
+268.07693
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C13H16O4S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+268.33
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)C1(CC(=O)C(O1)(C)SCC2=CC=CO2)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)C1(CC(=O)C(O1)(C)SCC2=CC=CO2)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+81.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+268.07693
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+15  16  8
+16  17  8
+17  18  8
+5  15  8
+5  18  8
+6  10  3
+7  12  3
+
+$$$$

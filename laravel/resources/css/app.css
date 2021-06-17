@@ -1,0 +1,23 @@
+.table-striped>tbody>tr:nth-of-type(odd) {
+    --bs-table-accent-bg: rgba(243, 249, 253, 0.7);
+    color: var(--bs-table-striped-color);
+}
+.table td {
+    overflow-wrap: anywhere;
+}
+p {
+    text-align: justify;
+}
+.btn-primary {
+    background-color: #3498db;
+}
+.btn-primary:hover {
+    background-color: #0b5ed7;
+}
+.btn-clear {
+    border-color: #143c57;
+    background-color: #143c57;
+}
+.btn-clear:hover {
+    background-color: #0a1e2b;
+}

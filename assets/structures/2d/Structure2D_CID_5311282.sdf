@@ -1,0 +1,245 @@
+5311282
+ OpenBabel05082101102D
+
+ 53 58  0  0  1  0  0  0  0  0999 V2000
+    7.7359   -2.9701    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9527   -1.6848    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6948   -3.5421    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4779   -4.8274    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4574   -5.1133    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2592    1.8814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    4.4692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9805    0.1213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5984    4.4934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5381    4.4934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5920   -0.6132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9836   -1.2559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682    2.4692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8773    1.8814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9343    2.9692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    2.9692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5682    0.9304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5682    0.9304    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.9343    3.9692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2022    3.9692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8728    1.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7691   -0.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8282    2.4345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083    2.4345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6125   -0.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2419    0.4637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8282    4.5039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3083    4.5039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7343    2.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    2.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7343    3.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022    3.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9733   -1.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3443   -2.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7256   -3.1131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3340   -2.4705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7051   -3.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0966   -4.0417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0864   -4.1847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8497    0.3779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3063    2.0180    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3139   -0.5126    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8210    1.8146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154    1.8146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8523    0.3553    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8210    5.1238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3154    5.1238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2700    2.6363    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8665    2.6363    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3639    0.1862    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6000   -1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5960    5.1133    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    4.1854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 35  1  0  0  0  0
+  2 36  1  0  0  0  0
+  3 37  1  0  0  0  0
+  4 38  1  0  0  0  0
+  5 39  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 50  1  0  0  0  0
+  9 31  1  0  0  0  0
+  9 52  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 53  1  0  0  0  0
+ 11 33  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 12 51  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 40  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 21 26  2  0  0  0  0
+ 21 41  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 22 42  1  0  0  0  0
+ 23 29  2  0  0  0  0
+ 23 43  1  0  0  0  0
+ 24 30  2  0  0  0  0
+ 24 44  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 45  1  0  0  0  0
+ 27 31  2  0  0  0  0
+ 27 46  1  0  0  0  0
+ 28 32  2  0  0  0  0
+ 28 47  1  0  0  0  0
+ 29 31  1  0  0  0  0
+ 29 48  1  0  0  0  0
+ 30 32  1  0  0  0  0
+ 30 49  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 34 36  1  0  0  0  0
+ 35 38  1  0  0  0  0
+ 36 37  2  0  0  0  0
+ 37 39  1  0  0  0  0
+ 38 39  2  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+5311282
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+891
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+11
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6OcAAAAAAAAAAAAAAAAAAASAAAAA0YMGCAAAAAEiRVAAAHwAQCAAADEyxmAswzoLABgCIAiVSUACCCAAlIgAIiAEGbMgcNzLGtZuGeSjl1BXM+Qf4+P+OqAAASAAYAABQAACQADAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,3,4,5,6-pentafluoro-N-(3,3',6'-trihydroxyspiro[3H-isobenzofuran-1,9'-xanthene]-5-yl)benzamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2,3,4,5,6-pentafluoro-N-(3,3',6'-trihydroxy-5-spiro[3H-isobenzofuran-1,9'-xanthene]yl)benzamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2,3,4,5,6-pentafluoro-<I>N</I>-(3,3&apos;,6&apos;-trihydroxyspiro[3<I>H</I>-2-benzofuran-1,9&apos;-xanthene]-5-yl)benzamide
+
+>  <PUBCHEM_IUPAC_NAME>
+2,3,4,5,6-pentafluoro-N-(3,3',6'-trihydroxyspiro[3H-2-benzofuran-1,9'-xanthene]-5-yl)benzamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,3,4,5,6-pentakis(fluoranyl)-N-[3,3',6'-tris(oxidanyl)spiro[3H-2-benzofuran-1,9'-xanthene]-5-yl]benzamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,3,4,5,6-pentafluoro-N-(3,3',6'-trihydroxyspiro[phthalan-1,9'-xanthene]-5-yl)benzamide
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C27H14F5NO6/c28-20-19(21(29)23(31)24(32)22(20)30)25(36)33-10-1-4-14-13(7-10)26(37)39-27(14)15-5-2-11(34)8-17(15)38-18-9-12(35)3-6-16(18)27/h1-9,26,34-35,37H,(H,33,36)
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+AJIMMVOZOJXJKD-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+4
+
+>  <PUBCHEM_EXACT_MASS>
+543.074128
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C27H14F5NO6
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+543.4
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC2=C(C=C1NC(=O)C3=C(C(=C(C(=C3F)F)F)F)F)C(OC24C5=C(C=C(C=C5)O)OC6=C4C=CC(=C6)O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC2=C(C=C1NC(=O)C3=C(C(=C(C(=C3F)F)F)F)F)C(OC24C5=C(C=C(C=C5)O)OC6=C4C=CC(=C6)O)O
+
+>  <PUBCHEM_CACTVS_TPSA>
+108
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+543.074128
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+39
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+14  17  8
+14  21  8
+15  19  8
+15  23  8
+16  20  8
+16  24  8
+17  22  8
+19  27  8
+20  28  8
+21  26  8
+22  25  8
+23  29  8
+24  30  8
+25  26  8
+27  31  8
+28  32  8
+29  31  8
+30  32  8
+34  35  8
+34  36  8
+35  38  8
+36  37  8
+37  39  8
+38  39  8
+18  8  3
+
+$$$$

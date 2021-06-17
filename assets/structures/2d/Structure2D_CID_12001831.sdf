@@ -1,0 +1,156 @@
+12001831
+ OpenBabel05082101102D
+
+ 26 25  0  0  0  0  0  0  0  0999 V2000
+    4.2320    3.5490    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.0490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.6830    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.2320    1.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.5490    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.9510    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660    0.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4220    1.4879    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    1.0336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554    0.3433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087    0.3433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101    1.0336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -1.9664    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -2.6567    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460   -3.5490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -4.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860   -3.5490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  CHG  3   1   2   4  -1   6  -1
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+12001831
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+327
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAgAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAGgAAAAAADQSAgAACCAAAAACIAoDQCAAAAAAgIAAACAEAAEgAABIIAAAAAAAEgAAIAQOLyiCuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+calcium;4-(1-oxidopropylidene)-3,5-dioxo-cyclohexanecarboxylate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+calcium;4-(1-oxidopropylidene)-3,5-dioxo-1-cyclohexanecarboxylate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+calcium;4-(1-oxidopropylidene)-3,5-dioxocyclohexane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_NAME>
+calcium;4-(1-oxidopropylidene)-3,5-dioxocyclohexane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+calcium;4-(1-oxidanidylpropylidene)-3,5-bis(oxidanylidene)cyclohexane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+calcium;3,5-diketo-4-(1-oxidopropylidene)cyclohexanecarboxylate
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H12O5.Ca/c1-2-6(11)9-7(12)3-5(10(14)15)4-8(9)13;/h5,11H,2-4H2,1H3,(H,14,15);/q;+2/p-2
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+NLKUPINTOLSSLD-UHFFFAOYSA-L
+
+>  <PUBCHEM_EXACT_MASS>
+250.015414
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H10CaO5
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+250.26
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2]
+
+>  <PUBCHEM_CACTVS_TPSA>
+97.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+250.015414
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

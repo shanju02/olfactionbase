@@ -1,0 +1,173 @@
+11469606
+ OpenBabel05082101102D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    3.8660    0.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    2.3296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3660    1.4636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3660    1.4636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8660    0.5976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8660    0.5976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3660   -0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3660   -0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8660   -1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3660   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8660   -2.8665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0265    2.9285    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894    1.7220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2120    1.2470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2120    3.4122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3894    2.9373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1760    2.8665    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6760    2.0005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4486    0.8096    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7584    1.2081    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5560    0.0606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7834   -0.4805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4737   -0.8790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6760    0.2685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4860   -1.1345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8911   -1.6020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8911   -2.3990    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3291   -3.1765    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1760   -3.4035    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4030   -2.5565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+11469606
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+227
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCjBgAQCAALAAACIACFSEACAAAAgAAAICIAIAEgAAAAAAQAEAAAAlgCIAYIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2E,6Z)-N-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(2E,6Z)-N-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>E</I>,6<I>Z</I>)-<I>N</I>-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_NAME>
+(2E,6Z)-N-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2E,6Z)-N-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2E,6Z)-N-cyclopropylnona-2,6-dienamide
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H19NO/c1-2-3-4-5-6-7-8-12(14)13-11-9-10-11/h3-4,7-8,11H,2,5-6,9-10H2,1H3,(H,13,14)/b4-3-,8-7+
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+BTSTZWOTLKSKHV-ODYTWBPASA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.6
+
+>  <PUBCHEM_EXACT_MASS>
+193.146664
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C12H19NO
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+193.28
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC=CCCC=CC(=O)NC1CC1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC/C=C\CC/C=C/C(=O)NC1CC1
+
+>  <PUBCHEM_CACTVS_TPSA>
+29.1
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+193.146664
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

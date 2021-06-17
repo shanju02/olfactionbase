@@ -1,0 +1,162 @@
+80454
+ OpenBabel05082101102D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+    4.7770   -0.1410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.5584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4712    0.2192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -1.4281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8870   -1.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1928   -2.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    1.1462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    2.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    2.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.1462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3463   -1.2365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6954   -2.3268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4767   -1.9287    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0786   -1.1475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7780   -1.6365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7321   -2.5121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6077   -2.5580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1887    0.8588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554    1.4512    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.5988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.5988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.9546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+80454
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+154
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAADQSgkAIyDIAABECIAKjSiAICCAAkIAAIiAFGCMgNJjKENR6CGSCkwBEKqYaIJAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-furylmethyl 2-methylpropanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-methylpropanoic acid 2-furanylmethyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+furan-2-ylmethyl 2-methylpropanoate
+
+>  <PUBCHEM_IUPAC_NAME>
+furan-2-ylmethyl 2-methylpropanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+furan-2-ylmethyl 2-methylpropanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methylpropionic acid 2-furfuryl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H12O3/c1-7(2)9(10)12-6-8-4-3-5-11-8/h3-5,7H,6H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+SZWUNATWHPNXKD-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.8
+
+>  <PUBCHEM_EXACT_MASS>
+168.078644
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C9H12O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+168.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)C(=O)OCC1=CC=CO1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)C(=O)OCC1=CC=CO1
+
+>  <PUBCHEM_CACTVS_TPSA>
+39.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+168.078644
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+11  12  8
+2  12  8
+2  9  8
+9  10  8
+
+$$$$

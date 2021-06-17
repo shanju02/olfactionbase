@@ -1,0 +1,159 @@
+85224
+ OpenBabel05082101102D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    4.5981   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    0.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -0.3577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -1.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -1.1423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -2.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760    2.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560    1.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+85224
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+93.3
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHAAAAAAACAjBFgQugBIIEACgARRnRAAAgCQxEiAIWAA4cAgAYEJAkACUAAAggADISAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-methyl-3-propyl-pyrazine
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-methyl-3-propylpyrazine
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-methyl-3-propylpyrazine
+
+>  <PUBCHEM_IUPAC_NAME>
+2-methyl-3-propylpyrazine
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-3-propyl-pyrazine
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methyl-3-propyl-pyrazine
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H12N2/c1-3-4-8-7(2)9-5-6-10-8/h5-6H,3-4H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+XAWKNALRUSOTOY-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>
+1.6
+
+>  <PUBCHEM_EXACT_MASS>
+136.100048
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C8H12N2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+136.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC1=NC=CN=C1C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC1=NC=CN=C1C
+
+>  <PUBCHEM_CACTVS_TPSA>
+25.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+136.100048
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  5  8
+1  9  8
+2  10  8
+2  6  8
+5  6  8
+9  10  8
+
+$$$$

@@ -1,0 +1,194 @@
+63196
+ OpenBabel05082101102D
+
+ 35 36  0  0  0  0  0  0  0  0999 V2000
+    3.1014    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    3.6448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    5.1448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    6.6448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9338    4.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    6.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    5.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    4.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9338    3.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    6.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7998    5.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    4.6101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9338    6.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7998    3.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    6.6794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    3.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6659    4.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6659    3.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    5.1240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    6.1656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7998    5.7648    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    3.9902    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2438    6.1078    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4708    6.9548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6238    7.1817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7998    2.5248    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    7.2994    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7578    3.6817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5309    2.8348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3778    2.6078    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2028    4.9548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2028    3.3348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.8119    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    6.4777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1014    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 35  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  2  0  0  0  0
+  9 14  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+63196
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+390
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7IAAEAAAAAAAAAAAAAAAAAAAAAAAwYIAAAAAAAACBQAAAHgAAAAAADAiBmAAzwIMAAACoAidydACCAAElAgAJiAEQZMgIIDrA3ZGEIYhghADIyccYiACOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-methyl-3-(o-tolyl)quinazolin-4-one;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-methyl-3-(2-methylphenyl)-4-quinazolinone;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-methyl-3-(2-methylphenyl)quinazolin-4-one;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+2-methyl-3-(2-methylphenyl)quinazolin-4-one;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-3-(2-methylphenyl)quinazolin-4-one;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methyl-3-(o-tolyl)quinazolin-4-one;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14N2O.ClH/c1-11-7-3-6-10-15(11)18-12(2)17-14-9-5-4-8-13(14)16(18)19;/h3-10H,1-2H3;1H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+KJUHIXIWKSVBKB-UHFFFAOYSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+286.087291
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C16H15ClN2O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+286.75
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C.Cl
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C.Cl
+
+>  <PUBCHEM_CACTVS_TPSA>
+32.7
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+286.087291
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+11  17  8
+12  19  8
+14  18  8
+15  20  8
+17  18  8
+19  20  8
+3  6  8
+3  8  8
+4  10  8
+4  6  8
+5  11  8
+5  9  8
+7  10  8
+7  12  8
+7  8  8
+9  14  8
+
+$$$$

@@ -1,0 +1,152 @@
+61337
+ OpenBabel05082101102D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+    2.8090    0.3784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770   -0.3210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122    1.3263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.9172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.9172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -1.6082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8870   -1.9172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.4188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3477   -0.6084    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8144   -0.0161    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.4188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.7746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4752   -2.0230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0159   -2.5236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3478   -1.5023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+61337
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+153
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAACASgkAIwDIAABECIAKjSiAICCAAkIAAIiAFGCMgNJjKENR6CGSCkwBEKqYaIJggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+allyl furan-2-carboxylate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+2-furancarboxylic acid prop-2-enyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+prop-2-enyl furan-2-carboxylate
+
+>  <PUBCHEM_IUPAC_NAME>
+prop-2-enyl furan-2-carboxylate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+prop-2-enyl furan-2-carboxylate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+furan-2-carboxylic acid allyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H8O3/c1-2-5-11-8(9)7-4-3-6-10-7/h2-4,6H,1,5H2
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+SJRQTHAMRUOPBJ-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>
+1.6
+
+>  <PUBCHEM_EXACT_MASS>
+152.047344
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C8H8O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+152.15
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C=CCOC(=O)C1=CC=CO1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C=CCOC(=O)C1=CC=CO1
+
+>  <PUBCHEM_CACTVS_TPSA>
+39.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+152.047344
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  4  8
+1  9  8
+4  5  8
+5  8  8
+8  9  8
+
+$$$$

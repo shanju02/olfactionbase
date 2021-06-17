@@ -1,0 +1,146 @@
+65288
+ OpenBabel05082101102D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    2.8090   -0.2652    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122    0.6827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.2736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770   -0.9646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -1.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1574   -0.9862    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6907   -1.5786    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5365   -1.8633    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3177   -1.4652    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9196   -0.6840    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.1310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    1.7752    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+65288
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+116
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiIABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgQAAAAACATFwgSugRIIEAisAJA3RAAA8KBTCjhIQA24IAAAAAAggCAEAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-thiazol-2-ylpropan-1-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+1-(2-thiazolyl)-1-propanone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(1,3-thiazol-2-yl)propan-1-one
+
+>  <PUBCHEM_IUPAC_NAME>
+1-(1,3-thiazol-2-yl)propan-1-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(1,3-thiazol-2-yl)propan-1-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-thiazol-2-ylpropan-1-one
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H7NOS/c1-2-5(8)6-7-3-4-9-6/h3-4H,2H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+TYRAENAWSLPSLW-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.4
+
+>  <PUBCHEM_EXACT_MASS>
+141.024835
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C6H7NOS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+141.19
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(=O)C1=NC=CS1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(=O)C1=NC=CS1
+
+>  <PUBCHEM_CACTVS_TPSA>
+58.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+141.024835
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  7  8
+1  8  8
+3  7  8
+3  9  8
+8  9  8
+
+$$$$

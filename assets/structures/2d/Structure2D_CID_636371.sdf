@@ -1,0 +1,184 @@
+636371
+ OpenBabel05082101102D
+
+ 42 37  0  0  1  0  0  0  0  0999 V2000
+    7.9409    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+   10.5390    5.5000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    4.4768    6.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6108    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3429    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4768    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6730    6.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.9409    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.8070    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8064    8.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    5.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    3.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3429    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9409    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3429    5.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4768    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    5.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2870    3.9174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6855    4.6077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9968    4.5826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5983    3.8923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6074    6.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8104    6.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9443    2.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7414    2.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3395    6.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5424    6.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6855    2.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2870    3.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4768    6.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3434    8.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2695    8.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3 21  1  0  0  0  0
+  3 37  1  0  0  0  0
+  4 22  1  0  0  0  0
+  4 38  1  0  0  0  0
+  5 21  2  0  0  0  0
+  6 22  2  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 23  2  0  0  0  0
+ 10 24  2  0  0  0  0
+ 11 39  1  0  0  0  0
+ 11 40  1  0  0  0  0
+ 12 41  1  0  0  0  0
+ 12 42  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  CHG  4   1   1   2   1   7  -1   8  -1
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+636371
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+336
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+9
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzPDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAACAAAAADBgAQACAMAAgAIAACQCAAAAAAAAAAAAACIAAACQAAAACAQAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate;dihydrate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate;dihydrate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate;dihydrate
+
+>  <PUBCHEM_IUPAC_NAME>
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate;dihydrate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+disodium;2-[2-hydroxy-2-oxoethyl-[2-[2-hydroxy-2-oxoethyl-(2-oxidanidyl-2-oxidanylidene-ethyl)amino]ethyl]amino]ethanoate;dihydrate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate;dihydrate
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H16N2O8.2Na.2H2O/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;;2*1H2/q;2*+1;;/p-2
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+OVBJJZOQPCKUOR-UHFFFAOYSA-L
+
+>  <PUBCHEM_EXACT_MASS>
+372.075683
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H18N2Na2O10
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+372.24
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CN(CC(=O)O)CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].O.O.[Na+].[Na+]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CN(CC(=O)O)CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].O.O.[Na+].[Na+]
+
+>  <PUBCHEM_CACTVS_TPSA>
+163
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+372.075683
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+5
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

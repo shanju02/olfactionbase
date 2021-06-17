@@ -1,0 +1,219 @@
+175381
+ OpenBabel05082101102D
+
+ 53 54  0  0  1  0  0  0  0  0999 V2000
+    5.2309    1.6507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8821    0.5640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4857    0.0932    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.2444   -0.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2494   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4595    0.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1891    0.0105    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.4707   -1.9263    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0563   -0.8099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4947   -1.7087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1971   -1.5990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8583    0.8719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7767   -0.7913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4950    0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6981   -2.9001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0796    0.2446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6370    1.4993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2428    1.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6155    2.2754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6274    2.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.9001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6415   -0.0061    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9423    0.7096    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1877    0.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7495    0.4476    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0345   -2.3669    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5696   -0.4257    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5735   -1.1989    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8909   -1.8497    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4978   -2.3287    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9489   -2.1671    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7360   -1.9055    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2396   -1.2038    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2355   -0.3743    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0853    0.7729    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6847    1.5528    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9047    1.1522    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0943   -3.0411    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8390   -3.5039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3018   -2.7592    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6906    0.7274    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5968   -0.1444    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4686   -0.2382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0260    1.0165    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1198    1.8883    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2480    1.9821    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1585    2.5746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151    2.8621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0844    1.8222    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8278    1.5347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4828    3.2891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6110    3.3829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5172    2.5112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 18  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 22  1  6  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 25  1  6  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 26  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 14 36  1  0  0  0  0
+ 14 37  1  0  0  0  0
+ 15 38  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 16 41  1  0  0  0  0
+ 16 42  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 17 44  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 17 46  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 47  1  0  0  0  0
+ 19 48  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 49  1  0  0  0  0
+ 20 50  1  0  0  0  0
+ 21 51  1  0  0  0  0
+ 21 52  1  0  0  0  0
+ 21 53  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+175381
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+419
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcfB4MAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAADAAAAAGgAAAAAADUSAgAACCAAABACIAgDQCAAAAAAgAAAACAEAAAgAABIAAAACAAAEgAAIAAOAwPAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+[1-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]-1-methyl-ethyl] butanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+butanoic acid 2-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-yl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-[(3<I>S</I>,5<I>R</I>,8<I>S</I>)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-yl butanoate
+
+>  <PUBCHEM_IUPAC_NAME>
+2-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-yl butanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-yl butanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+butyric acid [1-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]-1-methyl-ethyl] ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C19H32O2/c1-6-7-18(20)21-19(4,5)15-10-8-13(2)16-11-9-14(3)17(16)12-15/h13-15H,6-12H2,1-5H3/t13-,14-,15+/m0/s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+FZRQHSNXHSRRMX-SOUVJXGZSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+4.5
+
+>  <PUBCHEM_EXACT_MASS>
+292.24023
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C19H32O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+292.5
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(=O)OC(C)(C)C1CCC(C2=C(C1)C(CC2)C)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(=O)OC(C)(C)[C@@H]1CC[C@@H](C2=C(C1)[C@H](CC2)C)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+26.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+292.24023
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+3  22  6
+7  14  5
+8  15  5
+
+$$$$

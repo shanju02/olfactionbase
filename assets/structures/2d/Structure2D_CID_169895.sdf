@@ -1,0 +1,121 @@
+169895
+ OpenBabel05082101102D
+
+ 10  6  0  0  0  0  0  0  0  0999 V2000
+    3.7071    0.2759    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+    2.7071   -0.7241    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    5.3801    0.7241    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    7.0532    1.1724    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    3.7071   -0.7241    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7071    0.2759    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4142    0.9830    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.0872    1.4312    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6390   -0.2418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  2  0  0  0  0
+M  CHG  6   1   3   4   2   5  -1   6  -1   7  -1   8  -1
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+169895
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+18.8
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAOAwAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+ferric;magnesium;dioxido(oxo)silane
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+magnesium;dioxido(oxo)silane;iron(3+)
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+magnesium;dioxido(oxo)silane;iron(3+)
+
+>  <PUBCHEM_IUPAC_NAME>
+magnesium;dioxido(oxo)silane;iron(3+)
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+magnesium;bis(oxidanidyl)-oxidanylidene-silane;iron(3+)
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ferric;magnesium;keto(dioxido)silane
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/Fe.Mg.2O3Si/c;;2*1-4(2)3/q+3;+2;2*-2
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+RDVAUUSHIMILPH-UHFFFAOYSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+231.843318
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+FeMgO6Si2+
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+232.32
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Mg+2].[Fe+3]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Mg+2].[Fe+3]
+
+>  <PUBCHEM_CACTVS_TPSA>
+126
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+231.843318
+
+>  <PUBCHEM_TOTAL_CHARGE>
+1
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+4
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

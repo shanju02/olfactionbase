@@ -1,0 +1,170 @@
+556940
+ OpenBabel05082101102D
+
+ 28 28  0  0  0  0  0  0  0  0999 V2000
+    4.7770    0.8116    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0949   -1.7627    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    1.5110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6302   -0.1154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281    0.5026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -0.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    1.7898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    2.0988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8870   -0.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    3.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0460   -2.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    3.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.0988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2539   -3.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3477    0.5243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8144    1.1166    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3164   -0.4972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8497   -1.0895    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1887    1.8114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554    2.4038    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    3.5514    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6656   -2.0501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1323   -1.4577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    3.5514    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    1.9072    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6475   -3.1788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3828   -3.6563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8604   -2.9210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+556940
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+173
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMABAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgQAAAAACASk0AKyDIAABEiIAKjSiAACCAAkIBAIiAEGCMgMJjKkNRqCGSCkwBEoqYaIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+ethyl 3-(2-furylmethylsulfanyl)propanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+3-(2-furanylmethylthio)propanoic acid ethyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+ethyl 3-(furan-2-ylmethylsulfanyl)propanoate
+
+>  <PUBCHEM_IUPAC_NAME>
+ethyl 3-(furan-2-ylmethylsulfanyl)propanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+ethyl 3-(furan-2-ylmethylsulfanyl)propanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(2-furfurylthio)propionic acid ethyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H14O3S/c1-2-12-10(11)5-7-14-8-9-4-3-6-13-9/h3-4,6H,2,5,7-8H2,1H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+ZKCVVCLCYIXCOD-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.7
+
+>  <PUBCHEM_EXACT_MASS>
+214.066365
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H14O3S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+214.28
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)CCSCC1=CC=CO1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)CCSCC1=CC=CO1
+
+>  <PUBCHEM_CACTVS_TPSA>
+64.7
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+214.066365
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+12  13  8
+3  13  8
+3  8  8
+8  10  8
+
+$$$$

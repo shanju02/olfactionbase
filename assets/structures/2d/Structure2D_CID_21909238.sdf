@@ -1,0 +1,185 @@
+21909238
+ OpenBabel05082101102D
+
+ 37 36  0  0  1  0  0  0  0  0999 V2000
+    7.1962   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.0000    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.6160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    1.1160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4641   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8291   -0.3060    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0560   -1.1530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -0.9260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030    0.8060    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760    1.6530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8291    1.4260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8441   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0841   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9501    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7101    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 37  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 13 35  1  0  0  0  0
+ 13 36  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+21909238
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+176
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADxSggAICAAAAAgCAAgBCAAAAAAAgAAAAAAAAAAgAEAIAAQAAQAAEwAAAAAGAwFAPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,5,6,6-tetramethyl-4-methylene-heptan-2-ol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+3,5,6,6-tetramethyl-4-methylene-2-heptanol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+3,5,6,6-tetramethyl-4-methylideneheptan-2-ol
+
+>  <PUBCHEM_IUPAC_NAME>
+3,5,6,6-tetramethyl-4-methylideneheptan-2-ol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,5,6,6-tetramethyl-4-methylidene-heptan-2-ol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-methyl-4-(1,2,2-trimethylpropyl)pent-4-en-2-ol
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H24O/c1-8(9(2)11(4)13)10(3)12(5,6)7/h9-11,13H,1H2,2-7H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+KQHNSYOQXVRMSX-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+4
+
+>  <PUBCHEM_EXACT_MASS>
+184.182715
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C12H24O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+184.32
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(C)O)C(=C)C(C)C(C)(C)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C(C)O)C(=C)C(C)C(C)(C)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+20.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+184.182715
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  1  3
+3  9  3
+5  11  3
+
+$$$$

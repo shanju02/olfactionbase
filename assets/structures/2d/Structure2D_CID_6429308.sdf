@@ -1,0 +1,153 @@
+6429308
+ OpenBabel05082101102D
+
+ 22 21  0  0  1  0  0  0  0  0999 V2000
+    2.5369   -0.4330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.0670    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9030    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -0.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.6870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4399    1.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5930    1.4700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.6230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -1.1090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2130   -1.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4399   -0.4890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5150   -0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7550   -0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    0.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+6429308
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+70.9
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgQACAAADBSgwAICAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAQAAEAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-methyl-4-sulfanyl-pentan-2-ol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+4-mercapto-4-methyl-2-pentanol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+4-methyl-4-sulfanylpentan-2-ol
+
+>  <PUBCHEM_IUPAC_NAME>
+4-methyl-4-sulfanylpentan-2-ol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methyl-4-sulfanyl-pentan-2-ol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-mercapto-4-methyl-pentan-2-ol
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H14OS/c1-5(7)4-6(2,3)8/h5,7-8H,4H2,1-3H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+FDBQLLMYSACLPB-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+1.2
+
+>  <PUBCHEM_EXACT_MASS>
+134.076536
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C6H14OS
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+134.24
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(CC(C)(C)S)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(CC(C)(C)S)O
+
+>  <PUBCHEM_CACTVS_TPSA>
+21.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+134.076536
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+5  2  3
+
+$$$$

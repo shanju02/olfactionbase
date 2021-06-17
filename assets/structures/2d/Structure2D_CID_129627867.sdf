@@ -1,0 +1,175 @@
+129627867
+ OpenBabel05082101102D
+
+ 35 31  0  0  0  0  0  0  0  0999 V2000
+    3.6310   -2.9896    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+    5.0137   -3.9135    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.6652    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    4.6310   -2.9896    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9239   -2.2825    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.2620   -2.6652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9794    0.8706    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.5530    3.9135    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.6053   -0.1838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1532    3.2507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6310   -0.5754    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3878    1.4029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0137    0.3485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0051    0.4790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3381   -1.2825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6310   -0.5754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3792    1.5334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7790    2.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3381   -2.2825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9239   -1.2825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9880    0.7401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1617    3.1201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0407    0.9679    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4084    0.4827    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9781   -0.1404    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6104    0.3448    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.4430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6481   -0.7456    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7914    0.0235    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0941   -0.2654    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9292    1.8197    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1928    2.1247    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2561    2.5294    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3602    1.7391    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 20  2  0  0  0  0
+  7 21  2  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 22  2  0  0  0  0
+ 11 23  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  CHG  7   1   2   2   1   3   1   4  -1   5  -1   8  -1   9  -1
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+129627867
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+346
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzPDAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAHgAAAAAAAADBgAQACAMAAAAIAACQCAAAAAAAAAAAAACIAAACQAAAACAQAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+
+>  <PUBCHEM_IUPAC_NAME>
+calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+calcium;disodium;2-[2-[bis(2-oxidanidyl-2-oxidanylidene-ethyl)amino]ethyl-(2-oxidanidyl-2-oxidanylidene-ethyl)amino]ethanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H16N2O8.Ca.2Na/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;;/q;+2;2*+1/p-4
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+SHWNNYZBHZIQQV-UHFFFAOYSA-J
+
+>  <PUBCHEM_EXACT_MASS>
+374.001495
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H12CaN2Na2O8
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+374.27
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Ca+2]
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Ca+2]
+
+>  <PUBCHEM_CACTVS_TPSA>
+167
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+374.001495
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+4
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_NONSTANDARDBOND>
+1  4  7
+1  5  7
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

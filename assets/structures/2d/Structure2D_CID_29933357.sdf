@@ -1,0 +1,166 @@
+29933357
+ OpenBabel05082101102D
+
+ 26 26  0  0  0  0  0  0  0  0999 V2000
+    6.2859    0.4629    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3669   -0.5455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9021   -2.1928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7859    2.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5258    0.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4769    1.0507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3179   -0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7859    2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2079   -1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1981    2.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1590   -1.5236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0949    1.0507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4396    1.3557    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9062    0.7633    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4042   -0.8504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9376   -0.2581    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1216   -1.2187    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5883   -1.8110    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6997    3.1752    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8337    3.3124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6966    2.4464    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6846    0.8591    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3936   -2.6819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8711   -3.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6064   -2.9397    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+29933357
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+175
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgQAAAAACAih1gaGiRIIFAisAQTxTAAA8KBxCDgAWBU4QAgAIAJggAAGAAAkQAFISAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(4-methylthiazol-5-yl)ethyl propanoate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+propanoic acid 2-(4-methyl-5-thiazolyl)ethyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl propanoate
+
+>  <PUBCHEM_IUPAC_NAME>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl propanoate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(4-methyl-1,3-thiazol-5-yl)ethyl propanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+propionic acid 2-(4-methylthiazol-5-yl)ethyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H13NO2S/c1-3-9(11)12-5-4-8-7(2)10-6-13-8/h6H,3-5H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+KXYXTLJGFPUWOE-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3>
+1.9
+
+>  <PUBCHEM_EXACT_MASS>
+199.0667
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C9H13NO2S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+199.27
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(=O)OCCC1=C(N=CS1)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(=O)OCCC1=C(N=CS1)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+67.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+199.0667
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+1  12  8
+1  6  8
+4  12  8
+4  8  8
+6  8  8
+
+$$$$

@@ -1,0 +1,162 @@
+6259976
+ OpenBabel05082101102D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    5.2619   -0.8474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889   -2.6027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    0.9078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3211    1.6521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.1526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.6521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6318    2.6027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5956    1.0357    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7742    1.9442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9385    1.1642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.7726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.4674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.0374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.6574    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2211    2.4100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8244    3.1920    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0424    2.7953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 17  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+6259976
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+243
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAEgBAAAAGgAAAAAADASAmAAyCIAABACIAiDSCAACCAAkIAAIiAEACMgIJjKANRiCMQAkwAEIqYeKyKCOgAAAAAAQAAAAAAAAACAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3E)-3-propylideneisobenzofuran-1-one
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(3E)-3-propylidene-1-isobenzofuranone
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(3<I>E</I>)-3-propylidene-2-benzofuran-1-one
+
+>  <PUBCHEM_IUPAC_NAME>
+(3E)-3-propylidene-2-benzofuran-1-one
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3E)-3-propylidene-2-benzofuran-1-one
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3E)-3-propylidenephthalide
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H10O2/c1-2-5-10-8-6-3-4-7-9(8)11(12)13-10/h3-7H,2H2,1H3/b10-5+
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+NGSZDVVHIGAMOJ-BJMVGYQFSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.6
+
+>  <PUBCHEM_EXACT_MASS>
+174.06808
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C11H10O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+174.2
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC=C1C2=CC=CC=C2C(=O)O1
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC/C=C/1\C2=CC=CC=C2C(=O)O1
+
+>  <PUBCHEM_CACTVS_TPSA>
+26.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+174.06808
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  12  8
+3  5  8
+3  8  8
+5  10  8
+8  11  8
+
+$$$$

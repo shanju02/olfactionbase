@@ -1,0 +1,189 @@
+19830424
+ OpenBabel05082101102D
+
+ 36 38  0  0  1  0  0  0  0  0999 V2000
+    5.2163    1.5011    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4410    0.2764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730    1.2768    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8368   -0.1715    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8368    0.7940    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5092   -0.1715    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9819   -0.6066    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5092    0.7940    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9819    0.4387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730   -0.4743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -1.0834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1297    1.5011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3876   -1.9494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1822    1.2423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8893    1.9494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730    1.8968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3444    0.1845    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2640    0.5568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1016   -0.3542    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8478   -1.2119    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0820    0.5568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6383    0.9547    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3885    0.2592    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3030   -0.9718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0430   -0.9718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5188   -0.2634    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8068   -1.2434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5681    1.9395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6913    1.9395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6913    1.0627    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0776   -2.4864    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0076   -1.9494    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3277    1.5110    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3277    2.3878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4509    2.3878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 16 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+19830424
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+347
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAAAAAAAwYMGAAAAAAAAAAAAAGgAAAAAADRSggAICCAAABACIAgDSCAAAAAAgAAAAAAAAAAgAAAIAAQACAAAEwAAAAAGAwPAOgAAAAAAAAADAAAYAADAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(4-methyl-8-methylene-2-adamantyl) acetate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid (4-methyl-8-methylene-2-adamantyl) ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(4-methyl-8-methylidene-2-adamantyl) acetate
+
+>  <PUBCHEM_IUPAC_NAME>
+(4-methyl-8-methylidene-2-adamantyl) acetate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(4-methyl-8-methylidene-2-adamantyl) ethanoate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid (4-methyl-8-methylene-2-adamantyl) ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H20O2/c1-7-10-4-11-6-12(7)14(16-9(3)15)13(5-10)8(11)2/h8,10-14H,1,4-6H2,2-3H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+HYZYPKCUAUVUJO-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.6
+
+>  <PUBCHEM_EXACT_MASS>
+220.14633
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C14H20O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+220.31
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C2CC3CC1C(C(C2)C3=C)OC(=O)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1C2CC3CC1C(C(C2)C3=C)OC(=O)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+26.3
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+220.14633
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+6
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+8  1  3
+3  9  3
+4  11  3
+5  13  3
+6  10  3
+7  11  3
+
+$$$$

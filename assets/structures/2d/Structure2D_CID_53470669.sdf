@@ -1,0 +1,179 @@
+53470669
+ OpenBabel05082101102D
+
+ 33 34  0  0  1  0  0  0  0  0999 V2000
+    2.0000    1.1900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0627   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.8100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.1962    0.1900    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3301   -1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.8100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.5627   -1.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5627    0.5560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5061   -1.3470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5061    0.7270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316   -1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287   -1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    1.1650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    1.1650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0258   -1.4860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8727   -1.7130    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0996   -0.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0996    0.2460    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8727    1.0930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0258    0.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881   -0.7731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611   -1.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081   -1.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -0.2849    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -0.2849    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+53470669
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+315
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByAAAAAAAAAAAAAAAAGAAAAAAAAAAwAAAABgAAAAAAAAAAHAAAAAAADwCBAAACAAAAAACQBiBCAAAAAAAgAAAACAAAAAgAgAIAAQAAAAAAgAAIAAMAgMAPgAAAAAAAAACAAAQAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3Z)-3-(4,7,7-trimethylnorcaran-3-ylidene)propanenitrile
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(3Z)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(3<I>Z</I>)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile
+
+>  <PUBCHEM_IUPAC_NAME>
+(3Z)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3Z)-3-(4,7,7-trimethyl-3-bicyclo[4.1.0]heptanylidene)propanenitrile
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3Z)-3-(4,7,7-trimethylnorcaran-3-ylidene)propionitrile
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H19N/c1-9-7-11-12(13(11,2)3)8-10(9)5-4-6-14/h5,9,11-12H,4,7-8H2,1-3H3/b10-5-
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+WHPKEUKLQUSZBC-YHYXMXQVSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.9
+
+>  <PUBCHEM_EXACT_MASS>
+189.15175
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C13H19N
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+189.3
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CC2C(C2(C)C)CC1=CCC#N
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC\1CC2C(C2(C)C)C/C1=C/CC#N
+
+>  <PUBCHEM_CACTVS_TPSA>
+23.8
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+189.15175
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+3  5  3
+4  6  3
+7  11  3
+
+$$$$

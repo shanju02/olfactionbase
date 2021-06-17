@@ -1,0 +1,172 @@
+94001
+ OpenBabel05082101102D
+
+ 27 28  0  0  1  0  0  0  0  0999 V2000
+    2.2788    1.4139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8968    1.4139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5878    2.3649    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.0878    0.8261    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.5878    2.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0878   -0.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9538   -0.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2218   -0.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0878   -2.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9538   -1.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2218   -1.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0878   -3.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9754    2.2679    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6402    0.5446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1942    2.4938    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5230    2.9815    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5016    3.5384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6356    3.6755    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4984    2.8095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4908   -0.3639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6848   -0.3639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4908   -1.9839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6848   -1.9839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4678   -3.1739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0878   -3.7939    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7078   -3.1739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+94001
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+162
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAGgAAAAAADBSwmAMyCIAABACAAiBCAAACAAAgAAAIiAAACIgZJiKAMRiiMAAkwAEOqAeAwDAOQAAAAAAAAACAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-methyl-2-(p-tolyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+4-methyl-2-(4-methylphenyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+4-methyl-2-(4-methylphenyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_NAME>
+4-methyl-2-(4-methylphenyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methyl-2-(4-methylphenyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-methyl-2-(p-tolyl)-1,3-dioxolane
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H14O2/c1-8-3-5-10(6-4-8)11-12-7-9(2)13-11/h3-6,9,11H,7H2,1-2H3
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+VPBUQMKUEPQXKR-UHFFFAOYSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.1
+
+>  <PUBCHEM_EXACT_MASS>
+178.09938
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C11H14O2
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+178.23
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1COC(O1)C2=CC=C(C=C2)C
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1COC(O1)C2=CC=C(C=C2)C
+
+>  <PUBCHEM_CACTVS_TPSA>
+18.5
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+178.09938
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  12  8
+3  7  3
+4  6  3
+6  8  8
+6  9  8
+8  11  8
+9  12  8
+
+$$$$

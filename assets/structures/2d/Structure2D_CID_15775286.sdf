@@ -1,0 +1,181 @@
+15775286
+ OpenBabel05082101102D
+
+ 35 35  0  0  1  0  0  0  0  0999 V2000
+    7.2144   -1.5094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -2.1785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4863   -0.5312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -1.2306    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6453   -1.8184    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9543   -2.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -0.2306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9543   -2.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -1.8184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3203    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -1.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3203    1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1863    1.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1863    2.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9018   -0.9491    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5483   -1.2060    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3478   -2.8983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0191   -3.3860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2422    0.3520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8437   -0.3382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8895   -3.3860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5607   -2.8983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5324   -0.3132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9309    0.3771    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1082    1.8520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7097    1.1618    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3984    1.1868    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7969    1.8771    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8063    2.7694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1863    3.3894    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5663    2.7694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -1.2798    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -1.6779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -2.4591    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 16  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 17  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+15775286
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+235
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADQSAgAICCAAABAAIAICQCAAAAAAAAAAAAAEAAAAAABIAAAAAAAAEAAAAAAGLzuCugAAAAAAAAAAAAAAAAAAAAAAACAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl (1R,2S)-3-oxo-2-pentyl-cyclopentanecarboxylate
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(1R,2S)-3-oxo-2-pentyl-1-cyclopentanecarboxylic acid methyl ester
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl (1<I>R</I>,2<I>S</I>)-3-oxo-2-pentylcyclopentane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_NAME>
+methyl (1R,2S)-3-oxo-2-pentylcyclopentane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl (1R,2S)-3-oxidanylidene-2-pentyl-cyclopentane-1-carboxylate
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1R,2S)-2-amyl-3-keto-cyclopentanecarboxylic acid methyl ester
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H20O3/c1-3-4-5-6-9-10(12(14)15-2)7-8-11(9)13/h9-10H,3-8H2,1-2H3/t9-,10+/m0/s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+UQWSOBVONQGHLN-VHSXEESVSA-N
+
+>  <PUBCHEM_XLOGP3_AA>
+2.4
+
+>  <PUBCHEM_EXACT_MASS>
+212.141244
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C12H20O3
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+212.28
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCC1C(CCC1=O)C(=O)OC
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCC[C@H]1[C@@H](CCC1=O)C(=O)OC
+
+>  <PUBCHEM_CACTVS_TPSA>
+43.4
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+212.141244
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+4  7  6
+5  11  5
+
+$$$$

@@ -1,0 +1,233 @@
+11949689
+ OpenBabel05082101102D
+
+ 55 57  0  0  1  0  0  0  0  0999 V2000
+    5.5187    0.8660    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0702    8.1582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4061    6.6823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3848    1.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6527    0.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0187    1.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0187    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4938    9.3738    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    4.9362    4.6582    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3598    9.8738    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8022    8.1582    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7682    7.8994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7491    9.3218    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.7304   11.2228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3265    8.4155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8644   10.7228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9362    7.6582    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.6888    9.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9362    6.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4548    9.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0702    6.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8022    6.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0702    5.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1762    6.6928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8022    5.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1762    4.6235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2702    6.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2702    5.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5381    6.1857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0960   10.2989    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5865    8.4860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6018    7.3021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3638    7.7272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7581    9.9418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2844   11.5012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4361   11.7685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0476    7.8618    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8844    8.1450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5701   11.2685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3104   10.4445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9362    8.2782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7965   10.2744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0702    8.7782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3472    8.4105    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0375    9.2331    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3392    6.4682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1834    7.3128    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3392    4.8482    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1834    4.0036    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7344    4.8253    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2302    6.7238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.8777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8461    5.6475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9217    1.0560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1158    0.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  2  0  0  0  0
+  2 43  1  0  0  0  0
+  3 27  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 54  1  0  0  0  0
+  5 55  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 23  2  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 30  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 31  1  6  0  0  0
+ 12 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 34  1  6  0  0  0
+ 14 16  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 14 36  1  0  0  0  0
+ 15 37  1  0  0  0  0
+ 15 38  1  0  0  0  0
+ 16 39  1  0  0  0  0
+ 16 40  1  0  0  0  0
+ 17  2  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 41  1  6  0  0  0
+ 18 20  2  0  0  0  0
+ 18 42  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 44  1  0  0  0  0
+ 20 45  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 22 46  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 24 27  2  0  0  0  0
+ 24 47  1  0  0  0  0
+ 25 48  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 26 49  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 50  1  0  0  0  0
+ 29 51  1  0  0  0  0
+ 29 52  1  0  0  0  0
+ 29 53  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+11949689
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+538
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7OABAAAAAAAAAAAAAAAAAAAAAAAA8WLFiAAAAAACx8AAAHgAACAAADTzhngY+xvMIFoCgAzRnRDCCiCAxIiAI2CA+bJgONuLEsZuEcChkwBHY+Aew4PwOgEABAAACAAAAgAIAAAQAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+(R)-(6-methoxy-4-quinolyl)-[(2S,4S,5R)-5-vinylquinuclidin-2-yl]methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxy-4-quinolinyl)methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+(<I>R</I>)-[(2<I>S</I>,4<I>S</I>,5<I>R</I>)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_NAME>
+(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(R)-[(2S,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(R)-(6-methoxy-4-quinolyl)-[(2S,4S,5R)-5-vinylquinuclidin-2-yl]methanol;sulfuric acid
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C20H24N2O2.H2O4S/c1-3-13-12-22-9-7-14(13)10-19(22)20(23)16-6-8-21-18-5-4-15(24-2)11-17(16)18;1-5(2,3)4/h3-6,8,11,13-14,19-20,23H,1,7,9-10,12H2,2H3;(H2,1,2,3,4)/t13-,14-,19-,20+;/m0./s1
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+AKYHKWQPZHDOBW-DSXUQNDKSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+422.151158
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C20H26N2O6S
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+422.5
+
+>  <PUBCHEM_OPENEYE_CAN_SMILES>
+COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O.OS(=O)(=O)O
+
+>  <PUBCHEM_OPENEYE_ISO_SMILES>
+COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O.OS(=O)(=O)O
+
+>  <PUBCHEM_CACTVS_TPSA>
+129
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+422.151158
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+29
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+10  30  5
+11  31  6
+13  18  5
+19  21  8
+19  22  8
+17  2  5
+21  23  8
+21  24  8
+22  25  8
+23  26  8
+24  27  8
+26  28  8
+27  28  8
+9  23  8
+9  25  8
+
+$$$$
