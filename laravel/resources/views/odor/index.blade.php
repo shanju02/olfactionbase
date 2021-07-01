@@ -79,7 +79,7 @@
                                 <th scope="row">{{ (($odorants->currentPage() - 1) * $odorants->perPage())+$loop->iteration }}</th>
                                 <td>{{ $primaryOrderName }}</td>
                                 <td>{{ $odorant->name }}</td>
-                                <td><a href="{{ route('odorant.view', $odorant->id) }}">{{ $odorant->casrn }}</a></td>
+                                <td><a href="{{ route('odorant.view', $odorant->odorant_id) }}">{{ $odorant->casrn }}</a></td>
                                 <td>{{ $odorant->common_name }}</td>
                             </tr>
                             @endforeach
