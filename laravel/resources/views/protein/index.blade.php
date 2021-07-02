@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-2">
-                        <input name="name" id="name" placeholder="Name" value="{{ \Request::get('name') }}" type="text" class="form-control mb-2 mt-2">
+                        <input name="name" id="name" placeholder="UniProt Id" value="{{ \Request::get('name') }}" type="text" class="form-control mb-2 mt-2">
                     </div>
                     <div class="col-lg-3">
                         <select class="form-control mb-2 mt-2" name="organism" id="organism">
