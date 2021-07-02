@@ -167,7 +167,7 @@
     <script type="text/javascript" language="javascript" src="{{ asset('assets/jsme/jsme.nocache.js') }}"></script>
     <script>
       function odorWiseSubOdors(odor_id) {
-        $.get('/odor/' + odor_id + '/subodors').done(function(data) {
+        $.get("{{ config('app.url') }}" + '/odor/' + odor_id + '/subodors').done(function(data) {
           $('#sub_odor').empty().append('<option value=\'\'>Select Subodor</option>');
           data.forEach(appendSubOdor);
         });
