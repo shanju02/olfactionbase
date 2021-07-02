@@ -55,7 +55,7 @@
                     </div>
                     <div class="col-lg-4">
                         <select name="organism" id="organism" class="form-control mb-2 mt-2">
-                            <option>Select Organism</option>
+                            <option value="">Select Organism</option>
                             <option value="Human" {{ \Request::get('organism') == 'Human' ? 'selected' : '' }}>Human</option>
                             <option value="Mus musculus" {{ \Request::get('organism') == 'Mus musculus' ? 'selected' : '' }}>Mus musculus</option>
                         </select>
