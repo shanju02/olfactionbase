@@ -45,7 +45,7 @@
                             <tr>
                                 <td><strong>Anju Sharma</strong></td>
                                 <td>
-                                    Data Collection, Processing, Manual Verification, Website developer
+                                    Data Collection, Processing, Manual Verification, Website development
                                 </td>
                                 <td>
                                     <a href="mailto:anjusharma.online@gmail.com">anjusharma.online@gmail.com</a>
@@ -56,7 +56,7 @@
                             <tr>
                                 <td><strong>Bishal Saha</strong></td>
                                 <td>
-                                    Software Engineer
+                                    Website Development
                                 </td>
                                 <td>
                                     <a href="mailto:bishal.saha@gmail.com">bishal.saha@gmail.com</a>
