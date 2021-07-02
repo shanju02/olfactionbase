@@ -45,7 +45,7 @@
                             <tr>
                                 <td><strong>Anju Sharma</strong></td>
                                 <td>
-                                    Data Collection, Processing, Manual Verification, Website development
+                                    Data Collection, Processing, Manual Verification, Website Development
                                 </td>
                                 <td>
                                     <a href="mailto:anjusharma.online@gmail.com">anjusharma.online@gmail.com</a>
