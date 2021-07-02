@@ -139,7 +139,7 @@
       $( document ).ready(function() {
 
         function createGraph(jsonData, svgId) {
-          const width = 400
+          const width = 350
           const radius = width / 2
           const data = jsonData
               const hierarchy = d3.hierarchy(data).sort((a, b) => d3.ascending(a.data.name, b.data.name))
