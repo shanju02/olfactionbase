@@ -56,7 +56,7 @@
                             <tr>
                                 <td><strong>Bishal Saha</strong></td>
                                 <td>
-                                    Website Development
+                                    Software Engineer
                                 </td>
                                 <td>
                                     <a href="mailto:bishal.saha@gmail.com">bishal.saha@gmail.com</a>
