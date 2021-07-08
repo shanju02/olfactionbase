@@ -62,7 +62,7 @@ export default {
             })
         },
         handleSearch() {
-            if (this.selectedSmile !== "" || this.selectedCasrn !== "") {
+            if (this.selectedUniProt !== "" || this.selectedOrganism !== "") {
                 window.location.href = this.searchFormUrl + '?name=' + this.selectedUniProt + '&organism=' + this.selectedOrganism
             } else {
                 this.errorMsg = "Please enter a value to search."

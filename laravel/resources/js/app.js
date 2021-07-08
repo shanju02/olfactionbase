@@ -18,6 +18,7 @@ const app = new Vue({
     methods: {
         changeSearchType(event) {
             this.searchType = event.target.value
+            $('#defaultErrorMessage').text('')
         }
     }
 })

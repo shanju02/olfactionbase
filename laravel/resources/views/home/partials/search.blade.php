@@ -11,6 +11,7 @@
                         <option value="odp">Or-Odorant Pairs</option>
                         <option value="obp">OBP/PBP</option>
                     </select>
+                    <div class="mt-2 text-danger" id="defaultErrorMessage"></div>
                 </div>
                 <div class="col-lg-9 col-md-9 col-12">
                     <odor-search
@@ -44,7 +45,7 @@
                                 <input type="text" name="key2" id="key2" class="form-control d-inline" placeholder="Another search term..." style="width: 45%">
                             </div>
                             <div class="col-lg-3 col-md-3 col-6">
-                                <button type="button" name="btnSearch" id="btnSearch" class="btn btn-primary w-100">Search</button>
+                                <button type="button"  name="btnDefaultSearch" id="btnDefaultSearch" class="btn btn-primary w-100">Search</button>
                             </div>
                         </div>
                     </div>
@@ -55,5 +56,11 @@
 </section>
 
 @push('footer')
-
+<script>
+    $('#btnDefaultSearch').click(function() {
+        if ($('#category').val() === '') {
+            $('#defaultErrorMessage').text('Please select the search type.')
+        }
+    })
+</script>
 @endpush

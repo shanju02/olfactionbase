@@ -12,7 +12,7 @@
                 <option value="Human">Human</option>
                 <option value="Mus musculus">Mus musculus</option>
             </select>
-            <div id="opt" style="width: 10%; display: inline">-AND-</div>
+            <div id="opt" style="width: 10%; display: inline">-OR-</div>
             <input
                 type="text"
                 name="gen_bank"

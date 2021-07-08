@@ -1976,7 +1976,7 @@ __webpack_require__.r(__webpack_exports__);
       });
     },
     handleSearch: function handleSearch() {
-      if (this.selectedSmile !== "" || this.selectedCasrn !== "") {
+      if (this.selectedUniProt !== "" || this.selectedOrganism !== "") {
         window.location.href = this.searchFormUrl + '?name=' + this.selectedUniProt + '&organism=' + this.selectedOrganism;
       } else {
         this.errorMsg = "Please enter a value to search.";
@@ -2257,6 +2257,7 @@ var app = new Vue({
   methods: {
     changeSearchType: function changeSearchType(event) {
       this.searchType = event.target.value;
+      $('#defaultErrorMessage').text('');
     }
   }
 });
@@ -20491,7 +20492,7 @@ var render = function() {
           staticStyle: { width: "10%", display: "inline" },
           attrs: { id: "opt" }
         },
-        [_vm._v("-AND-")]
+        [_vm._v("-OR-")]
       ),
       _vm._v(" "),
       _c("input", {
