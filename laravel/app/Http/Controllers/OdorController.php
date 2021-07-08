@@ -60,4 +60,17 @@ class OdorController extends Controller
     {
         return Excel::download(new OdorExport($request->query()), 'odors.xlsx');
     }
+
+    public function odorListForAPI()
+    {
+        return Odor::select('id', 'name')->get();
+    }
+
+    public function subOdorListForAPI(Request $request, $odorId)
+    {
+        return DB::table('sub_odor_odors')
+            ->where('odor_id', $odorId)
+            ->leftJoin('sub_odor', 'sub_odor_odors.subodor_id', '=', 'sub_odor.id')
+            ->get();
+    }
 }

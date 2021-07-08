@@ -54,4 +54,9 @@ class ProteinController extends Controller
     {
         return Excel::download(new ObpExport($request->query()), 'obp.xlsx');
     }
+
+    public function organismListForAPI()
+    {
+        return DB::table('protein')->distinct()->orderBy('organism')->get(['organism']);
+    }
 }

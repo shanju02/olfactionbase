@@ -19,7 +19,7 @@ if (csrfToken) {
 }
 
 try {
-    window.Vue = require('vue');
+    window.Vue = require('vue/dist/vue');
 } catch (exception) {
     console.log(exception);
 }

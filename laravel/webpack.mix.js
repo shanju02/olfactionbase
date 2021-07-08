@@ -15,4 +15,4 @@ mix.setPublicPath('../');
 mix.js('resources/js/app.js', 'assets/js')
     .postCss('resources/css/app.css', 'assets/css', [
         //
-    ]);
+    ]).vue();
