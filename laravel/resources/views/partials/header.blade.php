@@ -8,7 +8,6 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto {{ \Request::route()->getName() == 'index' ? 'active' : '' }}" href="{{ route('index') }}">Home</a></li>
                 <li><a class="nav-link scrollto {{ \Request::route()->getName() == 'odor' ? 'active' : '' }}" href="{{ route('odor') }}">Odors</a></li>
                 <li><a class="nav-link scrollto {{ \Request::route()->getName() == 'odorant' ? 'active' : '' }}" href="{{ route('odorant') }}">Chemicals</a></li>
                 <li><a class="nav-link scrollto {{ \Request::route()->getName() == 'receptor' ? 'active' : '' }}" href="{{ route('receptor') }}">Receptors</a></li>

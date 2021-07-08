@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row mb-2">
-        <div class="col-lg-12 text-center">
+        <div class="col-lg-12 text-center" data-aos="fade-up">
             <h2>OR-ODORANT PAIRS</h2>
         </div>
     </div>
@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="100">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="408" data-fill="81" data-arrow="up">
                             </div>
@@ -21,7 +21,7 @@
                             <p><span class="number">408</span> Human OR-Odorant pairs</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="197" data-fill="98" data-arrow="up">
                             </div>
@@ -31,7 +31,7 @@
                             <p><span class="number">197</span> Human Odorants collected</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="69" data-fill="69" data-arrow="up">
                             </div>
@@ -41,7 +41,7 @@
                             <p><span class="number">69</span> Human Olfactory Receptors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="419" data-fill="76" data-arrow="up">
                             </div>
@@ -60,7 +60,7 @@
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center"  data-aos="fade-up" data-aos-delay="500">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="466" data-fill="93" data-arrow="up">
                             </div>
@@ -70,7 +70,7 @@
                             <p><span class="number">466</span> Mouse OR-Odorant pairs</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="600">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="133" data-fill="66" data-arrow="up">
                             </div>
@@ -80,7 +80,7 @@
                             <p><span class="number">133</span> Mouse Odorants collected</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="700">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="81" data-fill="81" data-arrow="up">
                             </div>
@@ -90,7 +90,7 @@
                             <p><span class="number">81</span> Mouse Olfactory Receptors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="800">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="518" data-fill="94" data-arrow="up">
                             </div>
@@ -115,12 +115,12 @@
     </div>
     <section>
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-2" data-aos="fade-up" data-aos-delay="100">
                 <img src="{{ asset('assets/img/olfaction/humans.png') }}" alt="human" class="img-fluid">
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="851" data-fill="68" data-arrow="up">
                             </div>
@@ -129,10 +129,10 @@
                             <p style="text-align: center"><span class="number">851</span> Human Olfactory Receptors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <img src="{{ asset('assets/img/olfaction/odor.png') }}" alt="odor" class="img-fluid" width="70%">
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="106" data-fill="18" data-arrow="up">
                             </div>
@@ -141,7 +141,7 @@
                             <p style="text-align: center"><span class="number">106</span> Primary Odors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="500">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="572" data-fill="86" data-arrow="up">
                             </div>
@@ -154,10 +154,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-2" data-aos="fade-up" data-aos-delay="600">
                 <img src="{{ asset('assets/img/olfaction/mouse.png') }}" alt="human" class="img-fluid">
             </div>
-            <div class="col-md-10">
+            <div class="col-md-10" data-aos="fade-up" data-aos-delay="700">
                 <div class="row">
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
@@ -180,12 +180,12 @@
     </div>
     <section>
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-2" data-aos="fade-up" data-aos-delay="100">
                 <img src="{{ asset('assets/img/olfaction/chemical.png') }}" alt="chemicals" class="img-fluid">
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="3985" data-fill="98" data-arrow="up">
                             </div>
@@ -194,7 +194,7 @@
                             <p><span class="number">3985</span> Odorants</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="1124" data-fill="28" data-arrow="up">
                             </div>
@@ -215,12 +215,12 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-2" data-aos="fade-up" data-aos-delay="100">
                 <img src="{{ asset('assets/img/olfaction/other-proteins.png') }}" alt="other-proteins" class="img-fluid">
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="2418" data-fill="95" data-arrow="up">
                             </div>
@@ -229,7 +229,7 @@
                             <p><span class="number">2418</span> Odorant Binding Proteins</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="399" data-fill="18" data-arrow="up">
                             </div>
@@ -238,7 +238,7 @@
                             <p><span class="number">399</span> Pheromone Binding Proteins </p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="14" data-fill="5" data-arrow="up">
                             </div>

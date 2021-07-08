@@ -20,7 +20,7 @@
         <div class="row d-flex align-items-center mt-3">
             <div class="col-lg-12 text-lg-left text-center">
                 <div class="copyright">
-                    &copy; {{ date('Y') }} Copyright Olfaction. All Rights Reserved
+                    &copy; {{ date('Y') }} Copyright OlfactionBase. All Rights Reserved
                 </div>
             </div>
         </div>

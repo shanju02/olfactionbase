@@ -3,7 +3,7 @@
 @section('page-title', 'Home')
 
 @section('content')
-    @include('home.partials.about')
+    @include('home.partials.banner')
 
     @include('home.partials.search')
 
