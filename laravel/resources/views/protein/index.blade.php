@@ -13,7 +13,7 @@
             <div class="row content">
                 <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
                     <p>
-                        OBPs, members of lipocalin protein family, are highly diverse, small, water-soluble, globular, ligand specific proteins present in the mucus fluid produced by nasal glands in vertebrates and in the sensillar lymph in insects. OBPs act a “carrier” to transport odorants across the hydrophilic mucus layer and release them in vicinity of their respective ORs. OBPs are highly selective, as they have unique ligand binding profile.  OBPs functionality and expression are not limited to olfaction mechanism and olfactory organs. They are found to be involved in various other functions like measuring odorant concentration, deactivating odorants, etc. and found in taste organs, venom glands, sex hormone glands, etc of insects. Structurally OBPs are made up of eight antiparallel β-sheets folded into a continuous hydrogen-bonded β-barrel and a α-helical domain at the carboxyl terminal. OlfactionBase comprises of 2481 Odorant binding proteins, 417 Pheromone Binding proteins and 14 receptors from 189 species.
+                        OBPs, members of lipocalin protein family, are highly diverse, small, water-soluble, globular, ligand specific proteins present in the mucus fluid produced by nasal glands in vertebrates and in the sensillar lymph in insects. OBPs act a “carrier” to transport odorants across the hydrophilic mucus layer and release them in vicinity of their respective ORs. OBPs are highly selective, as they have unique ligand binding profile.  OBPs functionality and expression are not limited to olfaction mechanism and olfactory organs. They are found to be involved in various other functions like measuring odorant concentration, deactivating odorants, etc. and found in taste organs, venom glands, sex hormone glands, etc of insects. Structurally OBPs are made up of eight antiparallel β-sheets folded into a continuous hydrogen-bonded β-barrel and a α-helical domain at the carboxyl terminal. OlfactionBase comprises of 2418 Odorant binding proteins, 399 Pheromone Binding proteins and 14 receptors from 189 species.
                     </p>
                 </div>
                 <div class="col-lg-5 pt-4 pt-lg-0 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -30,7 +30,7 @@
                     <div class="col-lg-2">
                         <input name="name" id="name" placeholder="UniProt Id" value="{{ \Request::get('name') }}" type="text" class="form-control mb-2 mt-2">
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                         <select class="form-control mb-2 mt-2" name="organism" id="organism">
                             <option value="">Select Organism</option>
                             @foreach($organisms as $key => $organism)
@@ -44,11 +44,20 @@
                     <div class="col-lg-2">
                         <input name="length_to" id="length_to" placeholder="Length To" value="{{ \Request::get('length_to') }}" type="text" class="form-control mb-2 mt-2">
                     </div>
-                    <div class="col-lg-2">
-                        <button type="submit" class="btn btn-primary mb-2 mt-2 w-100">Search</button>
-                    </div>
-                    <div class="col-lg-1">
-                        <a href="{{ route('protein') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                    <div class="col-md-4">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <button type="submit" class="btn btn-primary mb-2 mt-2 w-100">Search</button>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="{{ route('protein') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="{{ route('protein.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                    Download
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

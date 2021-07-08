@@ -1,22 +1,35 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Exports;
 
 use App\Models\Odor;
-use App\Models\SubOdor;
-use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
-use App\Exports\OdorExport;
-use Maatwebsite\Excel\Facades\Excel;
+use Maatwebsite\Excel\Concerns\Exportable;
+use Illuminate\Contracts\View\View;
+use Maatwebsite\Excel\Concerns\FromView;
 
-class OdorController extends Controller
+class OdorExport implements FromView
 {
-    public function index(Request $request)
+    use Exportable;
+
+    private $searchParam;
+
+    public function __construct($searchParam)
     {
+        $this->searchParam = $searchParam;
+    }
+
+    public function view(): View
+    {
+        $data = $this->prepareResult();
+
+        return view('exports.odors', $data);
+    }
+
+    private function prepareResult() {
         $odors = Odor::all();
-        if ($request->get('odor')) {
-            $odorId = $request->get('odor');
+        if (isset($this->searchParam['odor'])) {
+            $odorId = $this->searchParam['odor'];
             $primaryOrderName = $odors->where('id', $odorId)->first()->name;
         } else {
             $odorId = $odors[0]['id'];
@@ -28,8 +41,8 @@ class OdorController extends Controller
             ->leftJoin('sub_odor', 'sub_odor_odors.subodor_id', '=', 'sub_odor.id')
             ->get();
 
-        if ($request->get('subodor')) {
-            $subOdorId = [$request->get('subodor')];
+        if (isset($this->searchParam['subodor'])) {
+            $subOdorId = [$this->searchParam['subodor']];
         } else {
             $subOdorId = $subOdors->map(function ($subOdor) {
                 return $subOdor->id;
@@ -44,20 +57,11 @@ class OdorController extends Controller
 
         $odorants = $query->leftJoin('odorant', 'odorant_sub_odors.odorant_id', '=', 'odorant.id')
             ->leftJoin('sub_odor', 'odorant_sub_odors.subodor_id', '=', 'sub_odor.id')
-            ->paginate(25)
-            ->withQueryString();
+            ->get();
 
-        return view('odor.index', compact('odors', 'subOdors', 'odorants', 'primaryOrderName'));
-    }
-
-    public function odorWiseSubOdors(Odor $odor): JsonResponse
-    {
-        $subOdors = $odor->subOdors;
-        return response()->json($subOdors);
-    }
-
-    public function export(Request $request)
-    {
-        return Excel::download(new OdorExport($request->query()), 'odors.xlsx');
+        return [
+            'primaryOdor' => $primaryOrderName,
+            'odorants' => $odorants
+        ];
     }
 }

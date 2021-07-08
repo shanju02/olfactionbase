@@ -48,11 +48,13 @@ Route::get('/nested/{type}/{page}', [NestedGraphData::class, 'index'])->name('ne
 
 Route::get('/odor', [OdorController::class, 'index'])->name('odor');
 
+
 Route::get('/chemicals/{odorless?}', [OdorantController::class, 'index'])->name('odorant');
 Route::get('/chemical/{odorant}', [OdorantController::class, 'view'])->name('odorant.view');
 
 
 Route::get('/receptor', [ReceptorController::class, 'index'])->name('receptor');
+Route::get('/receptor/export', [ReceptorController::class, 'export'])->name('receptor.export');
 Route::get('/receptor/{receptor}', [ReceptorController::class, 'view'])->name('receptor.view');
 
 Route::get('/or-odorant-pairs', [OrOdorantController::class, 'index'])->name('or.odorant');
@@ -61,3 +63,9 @@ Route::get('/or-odorant-pairs/{or_odorant}', [OrOdorantController::class, 'view'
 Route::post('/get-evidences', [OrOdorantController::class, 'getEvidences'])->name('or.odorant.get.evidences');
 
 
+Route::get('/odors/export', [OdorController::class, 'export'])->name('odor.export');
+// Routes for chemical
+Route::get('/odorants/export', [OdorantController::class, 'exportOdorant'])->name('chemical.odorant.export');
+Route::get('/odorless/export', [OdorantController::class, 'exportOdorless'])->name('chemical.odorless.export');
+Route::get('/odorant-binding-protein/export', [ProteinController::class, 'export'])->name('protein.export');
+Route::get('/or-odorant/export', [OrOdorantController::class, 'export'])->name('or.odorant.export');

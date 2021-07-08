@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\OrOdorantExport;
 use App\Models\Receptor;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Maatwebsite\Excel\Facades\Excel;
 
 class OrOdorantController extends Controller
 {
@@ -61,5 +63,10 @@ class OrOdorantController extends Controller
         $query->where('evidences_new.receptor_id', $request->get('receptor_id'));
 
         return $query->get();
+    }
+
+    public function export(Request $request)
+    {
+        return Excel::download(new OrOdorantExport($request->query()), 'or-odorant.xlsx');
     }
 }

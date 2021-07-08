@@ -150,6 +150,8 @@
       .selectAll("text")
       .data(root.descendants())
       .join("text")
+      .on("click", nodeClickHandler)
+      .style('cursor', 'pointer')
       .attr("transform", d => `
           rotate(${d.x * 180 / Math.PI - 90})
           translate(${d.y},0)

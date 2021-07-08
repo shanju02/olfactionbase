@@ -2,11 +2,14 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\OdorantExport;
+use App\Exports\OdorlessExport;
 use App\Models\FunctionalGroup;
 use App\Models\Odor;
 use App\Models\Odorant;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Maatwebsite\Excel\Facades\Excel;
 
 class OdorantController extends Controller
 {
@@ -207,7 +210,16 @@ class OdorantController extends Controller
             }
         }
 
-
         return json_encode($odorantArray);
+    }
+
+    public function exportOdorant(Request $request)
+    {
+        return Excel::download(new OdorantExport($request->query()), 'chemicals-odorant.xlsx');
+    }
+
+    public function exportOdorless(Request $request)
+    {
+        return Excel::download(new OdorlessExport($request->query()), 'chemicals-odorless.xlsx');
     }
 }

@@ -63,6 +63,11 @@
                             <button type="button" class="btn btn-primary mb-2 mt-2" style="background: #1a1f21; width: 100%">Clear</button>
                         </a>
                     </div>
+                    <div class="col-lg-3">
+                        <a href="{{ route('or.odorant.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                            Download
+                        </a>
+                    </div>
                 </div>
             </div>
         </form>

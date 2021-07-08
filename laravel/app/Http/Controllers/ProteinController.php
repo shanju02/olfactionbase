@@ -2,8 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\ObpExport;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Maatwebsite\Excel\Facades\Excel;
 
 class ProteinController extends Controller
 {
@@ -26,7 +28,7 @@ class ProteinController extends Controller
             }
         }
 
-        $query = DB::table('protein');
+        $query = DB::table('protein')->where('length', '>', 100);
 
         if ($name) {
             $query->where('name', $name);
@@ -46,5 +48,10 @@ class ProteinController extends Controller
         $organisms = DB::table('protein')->distinct()->orderBy('organism')->get(['organism']);
 
         return view('protein.index', compact('proteins', 'organisms'));
+    }
+
+    public function export(Request $request)
+    {
+        return Excel::download(new ObpExport($request->query()), 'obp.xlsx');
     }
 }

@@ -72,11 +72,20 @@
                     <div class="col-lg-2">
                         <input name="seq_length_to" id="seq_length_to" placeholder="Seq. Length To" value="{{ \Request::get('seq_length_to') }}" type="number" class="form-control mb-2 mt-2">
                     </div>
-                    <div class="col-lg-2">
-                        <button type="submit" class="btn btn-primary mb-2 mt-2 w-100">Search</button>
-                    </div>
-                    <div class="col-lg-2">
-                        <a href="{{ route('receptor') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                    <div class="col-md-4">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <button type="submit" class="btn btn-primary mb-2 mt-2 w-100">Search</button>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="{{ route('receptor') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="{{ route('receptor.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                    Download
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

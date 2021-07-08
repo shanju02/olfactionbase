@@ -12,7 +12,7 @@
     <meta name="author" content="">
     <meta name="keywords" content="olfaction, olfactionbase, olfaction wheel, chemical smell relation, odor odorant interactions, olfactory receptor">
     <meta name ="description" content="A repository of Odors, Odorants, Olfactory Receptors and related information">
-    <title>@yield('page-title')  | Olfaction</title>
+    <title>@yield('page-title')  | OlfactionBase</title>
 
     <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
     <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">

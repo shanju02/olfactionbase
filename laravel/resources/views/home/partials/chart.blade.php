@@ -222,11 +222,11 @@
                 <div class="row">
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="2458" data-fill="98" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="2418" data-fill="95" data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">2458</span> Odorant Binding Proteins</p>
+                            <p><span class="number">2418</span> Odorant Binding Proteins</p>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center">
@@ -244,7 +244,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">41</span> Chemosensory Proteins </p>
+                            <p><span class="number">14</span> Chemosensory Proteins </p>
                         </div>
                     </div>
                 </div>

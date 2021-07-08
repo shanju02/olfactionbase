@@ -56,17 +56,7 @@
                                 @endif
                             </select>
                         </div>
-                        <div class="col-lg-4">
-                            &nbsp;
-                        </div>
-                        <div class="col-lg-4">
-                            <input type="text" class="form-control mb-2 mt-2" name="casrn" id="casrn"
-                                   placeholder="CAS-NO" value="{{ \Request::get('casrn') }}">
-                        </div>
-                        <div class="col-lg-4">
-                            <input type="text" class="form-control mb-2 mt-2" name="smiles" id="smiles"
-                                   placeholder="Substructure" value="{{ \Request::get('smiles') }}">
-                        </div>
+                        <div class="col-md-4">&nbsp;</div>
                         <div class="col-lg-4">
                             <select class="form-control mb-2 mt-2" name="functional_group" id="functional_group">
                                 <option value="">Select Functional Group</option>
@@ -76,19 +66,44 @@
                             </select>
                         </div>
                         <div class="col-lg-4">
+                            <input type="number" class="form-control mb-2 mt-2" name="mol_wt_to" id="mol_wt_to"
+                                   placeholder="Molecular weight to" value="{{ \Request::get('mol_wt_to') }}">
+                        </div>
+
+                        <div class="col-lg-4">
                             <input type="number" class="form-control mb-2 mt-2" name="mol_wt_from" id="mol_wt_from"
                                    placeholder="Molecular weight from" value="{{ \Request::get('mol_wt_from') }}">
                         </div>
                         <div class="col-lg-4">
-                            <input type="number" class="form-control mb-2 mt-2" name="mol_wt_to" id="mol_wt_to"
-                                   placeholder="Molecular weight to" value="{{ \Request::get('mol_wt_to') }}">
+                            <input type="text" class="form-control mb-2 mt-2" name="smiles" id="smiles"
+                                   placeholder="Substructure" value="{{ \Request::get('smiles') }}">
                         </div>
-                        <div class="col-lg-2">
-                            <button type="submit" class="btn btn-primary w-100 mb-2 mt-2">Search</button>
+                        <div class="col-lg-4">
+                            <input type="text" class="form-control mb-2 mt-2" name="casrn" id="casrn"
+                                   placeholder="CAS-NO" value="{{ \Request::get('casrn') }}">
                         </div>
-                        <div class="col-lg-2">
-                            <a href="{{ route('odorant') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                        <div class="col-md-4">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <button type="submit" class="btn btn-primary w-100 mb-2 mt-2">Search</button>
+                                </div>
+                                <div class="col-lg-4">
+                                    <a href="{{ route('odorant') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100">Clear</a>
+                                </div>
+                                <div class="col-lg-4">
+                                    @if($odorless)
+                                    <a href="{{ route('chemical.odorless.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                        Download
+                                    </a>
+                                    @else
+                                        <a href="{{ route('chemical.odorant.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                            Download
+                                        </a>
+                                    @endif
+                                </div>
+                            </div>
                         </div>
+
                     </div>
                 </div>
             </section>

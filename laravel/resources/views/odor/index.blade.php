@@ -26,7 +26,7 @@
         <form action="{{ route('odor') }}" method="get">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div style="float: left; margin-bottom: 10px">Primary Odor</div>
                         <select class="form-control" name="odor" id="odor" onchange="odorWiseSubOdors(this.value)" required>
                             @foreach($odors as $odor)
@@ -34,7 +34,7 @@
                             @endforeach
                         </select>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div style="float: left; margin-bottom: 10px">Sub-Odor</div>
                         <select class="form-control" name="subodor" id="subodor">
                             <option value="">Select Sub Odor</option>
@@ -51,6 +51,11 @@
                     <div class="col-lg-2">
                         <a href="{{ route('odor') }}" class="btn btn-primary btn-clear w-100" style="margin-top: 35px">
                             Clear
+                        </a>
+                    </div>
+                    <div class="col-lg-2">
+                        <a href="{{ route('odor.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear w-100" style="margin-top: 35px; background-color: #0d6efd">
+                            Download
                         </a>
                     </div>
                 </div>

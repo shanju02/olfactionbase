@@ -182,6 +182,8 @@
           .selectAll("text")
           .data(root.descendants())
           .join("text")
+          .on("click", nodeClickHandler)
+          .style('cursor', 'pointer')
           .attr("transform", d => `
           rotate(${d.x * 180 / Math.PI - 90})
           translate(${d.y},0)
@@ -192,7 +194,7 @@
           .attr("text-anchor", d => d.x < Math.PI === !d.children ? "start" : "end")
           .text(d => d.data.name)
           .clone(true).lower()
-          .attr("stroke", "white");
+          .attr("stroke", "white")
         }
 
         function nodeClickHandler(event, d) {

@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\ReceptorExport;
 use App\Models\Receptor;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Maatwebsite\Excel\Facades\Excel;
 
 class ReceptorController extends Controller
 {
@@ -81,5 +83,10 @@ class ReceptorController extends Controller
         $query->leftJoin('evidences', 'evidences.id', '=', 'evidences_new.evidence_id');
 
         return $query->get();
+    }
+
+    public function export(Request $request)
+    {
+        return Excel::download(new ReceptorExport($request->query()), 'receptors.xlsx');
     }
 }
