@@ -5,6 +5,8 @@
 @section('content')
     @include('home.partials.about')
 
+    @include('home.partials.search')
+
     @include('home.partials.chart')
 
 
