@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-3 text-center">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="408" data-fill="81" data-arrow="up">
                             </div>
@@ -21,7 +21,7 @@
                             <p><span class="number">408</span> Human OR-Odorant pairs</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-3 text-center">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="197" data-fill="98" data-arrow="up">
                             </div>
@@ -31,7 +31,7 @@
                             <p><span class="number">197</span> Human Odorants collected</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 text-center">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="69" data-fill="69" data-arrow="up">
                             </div>
@@ -41,7 +41,7 @@
                             <p><span class="number">69</span> Human Olfactory Receptors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
+                    <div class="col-lg-3 text-center">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="419" data-fill="76" data-arrow="up">
                             </div>
@@ -60,7 +60,7 @@
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center"  data-aos="fade-up" data-aos-delay="500">
+                    <div class="col-lg-3 text-center"  data-aos="fade-up" data-aos-delay="100">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="466" data-fill="93" data-arrow="up">
                             </div>
@@ -70,7 +70,7 @@
                             <p><span class="number">466</span> Mouse OR-Odorant pairs</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="600">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="133" data-fill="66" data-arrow="up">
                             </div>
@@ -80,7 +80,7 @@
                             <p><span class="number">133</span> Mouse Odorants collected</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="700">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="81" data-fill="81" data-arrow="up">
                             </div>
@@ -90,7 +90,7 @@
                             <p><span class="number">81</span> Mouse Olfactory Receptors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="800">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
                             <div class="container chart" data-size="180" data-value="518" data-fill="94" data-arrow="up">
                             </div>
