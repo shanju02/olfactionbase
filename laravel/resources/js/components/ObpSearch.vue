@@ -10,7 +10,7 @@
                 style="width: 45%"
                 v-model="selectedUniProt"
             >
-            <div id="opt" style="width: 10%; display: inline">-AND-</div>
+            <div id="opt" style="width: 10%; display: inline">-OR-</div>
             <select
                 name="organism"
                 id="organism"

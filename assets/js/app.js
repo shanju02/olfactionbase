@@ -20065,7 +20065,7 @@ var render = function() {
           staticStyle: { width: "10%", display: "inline" },
           attrs: { id: "opt" }
         },
-        [_vm._v("-AND-")]
+        [_vm._v("-OR-")]
       ),
       _vm._v(" "),
       _c(
