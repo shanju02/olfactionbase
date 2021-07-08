@@ -1,4 +1,4 @@
-<section id="clients" class="clients clients mb-5">
+<section id="clients" class="clients clients mb-2">
     <div class="container">
         <div class="mt-2 mb-2" >
             <div class="row">

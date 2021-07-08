@@ -4,7 +4,7 @@
             <h2>OR-ODORANT PAIRS</h2>
         </div>
     </div>
-    <section>
+    <section style="padding: 30px 0 60px 0">
         <div class="row">
             <div class="col-md-2">
                 <img src="{{ asset('assets/img/olfaction/humans.png') }}" alt="human" class="img-fluid">
