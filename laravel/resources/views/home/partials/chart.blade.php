@@ -17,8 +17,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>OR-Odorant pairs</h5>
-                            <p><span class="number">408</span> Human OR-Odorant pairs</p>
+                            <h5>Human OR-Odorant pairs</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center">
@@ -27,8 +26,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Odorants</h5>
-                            <p><span class="number">197</span> Human Odorants collected</p>
+                            <h5>Human Odorants</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center">
@@ -37,8 +35,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Olfactory Receptor</h5>
-                            <p><span class="number">69</span> Human Olfactory Receptors</p>
+                            <h5>HumanOlfactory Receptor</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center">
@@ -47,13 +44,13 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Evidence</h5>
-                            <p><span class="number">419</span> Evidences retrieved from PubMed</p>
+                            <h5>PubMed evidences</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="m-2">&nbsp;</div>
         <div class="row">
             <div class="col-md-2">
                 <img src="{{ asset('assets/img/olfaction/mouse.png') }}" alt="human" class="img-fluid">
@@ -66,8 +63,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>OR-Odorant pairs</h5>
-                            <p><span class="number">466</span> Mouse OR-Odorant pairs</p>
+                            <h5>Mouse OR-Odorant pairs</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
@@ -76,8 +72,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Odorants</h5>
-                            <p><span class="number">133</span> Mouse Odorants collected</p>
+                            <h5>Mouse Odorants</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -86,8 +81,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Olfactory Receptor</h5>
-                            <p><span class="number">81</span> Mouse Olfactory Receptors</p>
+                            <h5>Mouse Olfactory Receptor</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
@@ -96,8 +90,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <h5>Evidence</h5>
-                            <p><span class="number">518</span> Evidences retrieved from PubMed</p>
+                            <h5>PubMed Evidence</h5>
                         </div>
                     </div>
                 </div>
@@ -126,7 +119,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p style="text-align: center"><span class="number">851</span> Human Olfactory Receptors</p>
+                            <h5>Human Olfactory Receptors</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -138,7 +131,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p style="text-align: center"><span class="number">106</span> Primary Odors</p>
+                            <h5>Primary Odors</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="500">
@@ -147,12 +140,13 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p style="text-align: center"><span class="number">572</span> Sub-Odors</p>
+                            <h5>Sub-Odors</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="m-2">&nbsp;</div>
         <div class="row">
             <div class="col-md-2" data-aos="fade-up" data-aos-delay="600">
                 <img src="{{ asset('assets/img/olfaction/mouse.png') }}" alt="human" class="img-fluid">
@@ -165,7 +159,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p  style="text-align: center"><span class="number">1216</span> Mouse Olfactory Receptors</p>
+                            <h5>Mouse Olfactory Receptors</h5>
                         </div>
                     </div>
                 </div>
@@ -191,7 +185,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">3985</span> Odorants</p>
+                            <h5>Odorants</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -200,7 +194,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">1124</span> Odorless </p>
+                            <h5>Odorless </h5>
                         </div>
                     </div>
                 </div>
@@ -226,7 +220,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">2418</span> Odorant Binding Proteins</p>
+                            <h5>Odorant Binding Proteins</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -235,7 +229,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">399</span> Pheromone Binding Proteins </p>
+                            <h5>Pheromone Binding Proteins </h5>
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
@@ -244,7 +238,7 @@
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
-                            <p><span class="number">14</span> Chemosensory Proteins </p>
+                            <h5>Chemosensory Proteins </h5>
                         </div>
                     </div>
                 </div>

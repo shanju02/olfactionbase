@@ -26,7 +26,7 @@
                         Smiles2Smell is an ensemble model which combines deep neural network with physiochemical properties and molecular fingerprints (PPMF) and the Convolution neural network with chemical structure images to predict the smells of chemicals using their SMILES notations. A dataset of 5185 chemical compounds with 104 smell percepts was used to develop the multilabel prediction models
                         <br />
                         <br />
-                        <a href="https://bioserver.iiita.ac.in/Smiles2Smell" target="_blank">https://bioserver.iiita.ac.in/Smiles2Smell</a>
+                        Visit the repository: <a href="https://github.com/shanju02/smiles2smell" target="_blank">https://github.com/shanju02/smiles2smell</a>
                     </p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
@@ -35,7 +35,7 @@
                         OBPred is a feature-fusion based deep neural network classifier for identifying odorant binding proteins.
                         <br />
                         <br />
-                        <a href="https://bioserver.iiita.ac.in/OBPred" target="_blank">https://bioserver.iiita.ac.in/OBPred</a>
+                        <a href="https://link.springer.com/article/10.1007/s00521-021-06347-2" target="_blank">https://link.springer.com/article/10.1007/s00521-021-06347-2</a>
                     </p>
                 </div>
             </div>

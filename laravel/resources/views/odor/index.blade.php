@@ -18,6 +18,13 @@
                     <p>
                         OlfactionBase houses 106 primary odors, which are further classified into 572 subodors based on nine known aroma-classification systems (Wine, Perfumes, Urban odor, Drinking water, Waste water, Compost, Fragrance, City smell, Human Perception).
                     </p>
+                    <p>
+                        You may download full odorant dataset or search for specific odor.
+                        <br/>
+                        <a class="btn btn-primary" style="margin-top: 35px;">
+                            Download full dataset
+                        </a>
+                    </p>
                 </div>
             </div>
         </div>
