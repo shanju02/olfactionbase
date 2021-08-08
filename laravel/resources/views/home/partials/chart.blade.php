@@ -13,7 +13,8 @@
                 <div class="row">
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="408" data-fill="81" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="408" data-fill="81"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -22,7 +23,8 @@
                     </div>
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="197" data-fill="98" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="197" data-fill="98"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -40,7 +42,8 @@
                     </div>
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="419" data-fill="76" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="419" data-fill="76"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -57,9 +60,10 @@
             </div>
             <div class="col-md-10">
                 <div class="row">
-                    <div class="col-lg-3 text-center"  data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="100">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="466" data-fill="93" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="466" data-fill="93"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -68,7 +72,8 @@
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="133" data-fill="66" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="133" data-fill="66"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -86,7 +91,8 @@
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="518" data-fill="94" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="518" data-fill="94"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -115,7 +121,8 @@
                 <div class="row">
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="851" data-fill="68" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="851" data-fill="68"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -123,11 +130,13 @@
                         </div>
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
-                        <img src="{{ asset('assets/img/olfaction/odor.png') }}" alt="odor" class="img-fluid" width="70%">
+                        <img src="{{ asset('assets/img/olfaction/odor.png') }}" alt="odor" class="img-fluid"
+                             width="70%">
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="400">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="106" data-fill="18" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="106" data-fill="18"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -136,7 +145,8 @@
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="500">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="572" data-fill="86" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="572" data-fill="86"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -155,7 +165,8 @@
                 <div class="row">
                     <div class="col-lg-3 text-center">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="1216" data-fill="97" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="1216" data-fill="97"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -181,7 +192,8 @@
                 <div class="row">
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="3985" data-fill="98" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="3985" data-fill="98"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -190,7 +202,8 @@
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="1124" data-fill="28" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="1124" data-fill="28"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -201,22 +214,23 @@
             </div>
         </div>
     </section>
-
-    <section>
-        <div class="row mb-2">
-            <div class="col-lg-6 text-center">
-                <h2>OTHER PROTEINS</h2>
-            </div>
+    <div class="row mb-2">
+        <div class="col-lg-6 text-center">
+            <h2>OTHER PROTEINS</h2>
         </div>
+    </div>
+    <section>
         <div class="row">
             <div class="col-md-2" data-aos="fade-up" data-aos-delay="100">
-                <img src="{{ asset('assets/img/olfaction/other-proteins.png') }}" alt="other-proteins" class="img-fluid">
+                <img src="{{ asset('assets/img/olfaction/other-proteins.png') }}" alt="other-proteins"
+                     class="img-fluid">
             </div>
             <div class="col-md-10">
                 <div class="row">
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="2418" data-fill="95" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="2418" data-fill="95"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">
@@ -225,7 +239,8 @@
                     </div>
                     <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="300">
                         <div class="wrapper">
-                            <div class="container chart" data-size="180" data-value="399" data-fill="18" data-arrow="up">
+                            <div class="container chart" data-size="180" data-value="399" data-fill="18"
+                                 data-arrow="up">
                             </div>
                         </div>
                         <div class="mt-1 circle-heading">

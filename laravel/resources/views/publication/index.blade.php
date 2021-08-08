@@ -20,12 +20,12 @@
                         2. Anju Sharma, Rajnish Kumar, Rahul Semwal, Imlimaong Aier, Pankaj Tyagi and Pritish Varadwaj. (2020) DeepOlf: Deep neural network-based architecture for predicting odorants and their interacting Olfactory Receptors," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.3002154.
                     </p>
                     <p>&nbsp;</p>
-                    <p>3. Sharma A, Kumar R, Aier I, Semwal R, Tyagi P, Varadwaj P. Sense of Smell: Structural,
-                        Functional, Mechanistic Advancements and Challenges in Human Olfactory Research. Curr
-                        Neuropharmacol. 2019;17(9):891-911. doi: 10.2174/1570159X17666181206095626.</p>
+                    <p>
+                        3. Anju Sharma A, Rajnish Kumar, Imlimaong Aier, Rahul Semwal, Pankaj Tyagi, Pritish Varadwa. (2019) Sense of Smell: Structural, Functional, Mechanistic Advancements and Challenges in Human Olfactory Research. Curr Neuropharmacol. 17(9):891-911.
+                    </p>
                     <p>&nbsp;</p>
                     <p>
-                        4. Anju Sharma, Rajnish Kumar, Pritish Kumar Varadwaj. OBPred: Feature Fusion based Deep Neural Network Classifier for Odorant-Binding Protein Prediction. (Under Review)
+                        4. Anju Sharma, Rajnish Kumar, Pritish Varadwaj. (2021) OBPred: feature-fusion-based deep neural network classifier for odorant-binding protein prediction. Neural Comput & Applic. https://doi.org/10.1007/s00521-021-06347-2
                     </p>
                 </div>
             </div>

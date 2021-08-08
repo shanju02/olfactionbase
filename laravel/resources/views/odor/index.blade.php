@@ -21,7 +21,7 @@
                     <p>
                         You may download full odorant dataset or search for specific odor.
                         <br/>
-                        <a class="btn btn-primary" style="margin-top: 35px;">
+                        <a href="{{ url('uploads/olfactionbase- odors-odorant-data.pdf') }}" download class="btn btn-primary" style="margin-top: 35px;">
                             Download full dataset
                         </a>
                     </p>
