@@ -1,4 +1,4 @@
-<header id="header" class="fixed-top d-flex align-items-center">
+<header id="header" class="fixed-top align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
         <div class="logo">
@@ -21,6 +21,7 @@
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
-
     </div>
+
 </header>
+

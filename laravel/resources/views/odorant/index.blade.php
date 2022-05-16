@@ -65,15 +65,17 @@
                                 @endforeach
                             </select>
                         </div>
+
                         <div class="col-lg-4">
-                            <input type="number" class="form-control mb-2 mt-2" name="mol_wt_to" id="mol_wt_to"
-                                   placeholder="Molecular weight to" value="{{ \Request::get('mol_wt_to') }}">
+                            <input type="text" class="form-control mb-2 mt-2" name="mol_wt_from" id="mol_wt_from"
+                                   placeholder="Molecular weight from" value="{{ \Request::get('mol_wt_from') }}">
                         </div>
 
                         <div class="col-lg-4">
-                            <input type="number" class="form-control mb-2 mt-2" name="mol_wt_from" id="mol_wt_from"
-                                   placeholder="Molecular weight from" value="{{ \Request::get('mol_wt_from') }}">
+                            <input type="text" class="form-control mb-2 mt-2" name="mol_wt_to" id="mol_wt_to"
+                                   placeholder="Molecular weight to" value="{{ \Request::get('mol_wt_to') }}">
                         </div>
+
                         <div class="col-lg-4">
                             <input type="text" class="form-control mb-2 mt-2" name="smiles" id="smiles"
                                    placeholder="Substructure" value="{{ \Request::get('smiles') }}">
@@ -92,11 +94,11 @@
                                 </div>
                                 <div class="col-lg-4">
                                     @if($odorless)
-                                    <a href="{{ route('chemical.odorless.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                    <a href="{{ asset('uploads/odorants.csv') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
                                         Download
                                     </a>
                                     @else
-                                        <a href="{{ route('chemical.odorant.export', request()->getQueryString()) }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
+                                        <a href="{{ asset('uploads/odorants.csv') }}" class="btn btn-primary btn-clear mb-2 mt-2 w-100" style="background-color: #0d6efd">
                                             Download
                                         </a>
                                     @endif
