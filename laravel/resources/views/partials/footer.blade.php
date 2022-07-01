@@ -1,5 +1,12 @@
 <footer id="footer">
     <div class="container">
+        <div class="row d-flex align-items-center mt-3">
+            <div class="col-lg-12 text-lg-left text-center">
+                <div class="copyright">
+                    Last Updated on 16th May, 2022
+                </div>
+            </div>
+        </div>
         <div class="row d-flex align-items-center">
             <div class="col-lg-12">
                 <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
