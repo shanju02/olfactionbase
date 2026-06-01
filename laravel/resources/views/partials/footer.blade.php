@@ -3,7 +3,7 @@
         <div class="row d-flex align-items-center">
             <div class="col-lg-12 text-lg-left text-center">
                 <div class="copyright">
-                    Last Updated on 16th May, 2022
+                    Last Updated on {{ date('jS F, Y') }}
                 </div>
             </div>
         </div>

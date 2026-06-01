@@ -54,39 +54,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="container">
-            <div class="section-title mt-3" data-aos="fade-up">
-                <h2>On Odorants & Odorless compounds webpage</h2>
-            </div>
-            <div class="row content">
-                <div class="col-lg-12">
-                    <p>
-                        If I select Odor: Balsamic and Subodor: Balsamic and search
-                    </p>
-                    <p>
-                        There are 255 entries. From 51 entries onwards, for all compounds till 255 #odors column (second
-                        last column) has entries 0.
-                    </p>
-                    <p>
-                        Example: 7-Methoxycoumarin (Sr. No 51) has zero in #Odors column. If it is listed in search
-                        output table when searched for Balsamic odor, minimum 1 should be there in #odors and
-                        corresponding webapge (View) should also have same information
-                    </p>
-                    <p>
-                        When I am searching the same chemical (7-Methoxycoumarin) using its SMILES
-                        (COC1=CC2=C(C=C1)C=CC(=O)O2) in substructure field, the search table now has 3 in #odors column
-                        and View option also shows 3 odors in respective chemical page
-                    </p>
-                    <p>
-                        Conclusion: When searching using odor and subodor option, #odor column is not giving correct
-                        values usually zero for some (not all) chemicals, but when a specific chemical which is listed
-                        as #odors 0 is searched using its SMILES (substructure) the #odors value 0 is replaced with
-                        actual number of odors and View option reflects correct page.
-                    </p>
-                </div>
-            </div>
-        </div>
     </section>
 @endsection
 
