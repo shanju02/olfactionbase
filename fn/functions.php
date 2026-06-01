@@ -131,7 +131,7 @@ $nodesC = [];
 $nodesD = [];
 $relatedNodes = [];
 
-$conn = new mysqli("localhost","gentryx","gentryx","olfaction_newest");
+$conn = new mysqli("localhost","bishal","MnC@2030","olfactionbase_main");
 
 // Check connection
 if ($conn -> connect_errno) {
